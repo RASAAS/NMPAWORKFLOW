@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-11T13:44:54.734Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Q8rgGwZNWlwQeDnIlMPp" version="12.9.7" type="github">
+<mxfile modified="2020-04-11T13:52:22.800Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="TD2iSnuY4yxjKJzjyHk5" version="12.9.7" type="github">
   <diagram id="eIo0H9kK7ql945uVP1NC" name="Page-1">
     <mxGraphModel dx="2208" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,10 +119,19 @@
           <mxGeometry x="100" y="395" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I2kvrOjtu-fjR7yVEJqX-4" value="Editor" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#0078D7;" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
-          <mxGeometry x="13.5" y="150" width="28.2" height="30" as="geometry" />
+          <mxGeometry x="80.9" y="137" width="28.2" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I2kvrOjtu-fjR7yVEJqX-7" value="Author" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
-          <mxGeometry x="73.5" y="150" width="28.2" height="30" as="geometry" />
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-7" value="MR" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
+          <mxGeometry x="140.9" y="137" width="28.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-9" value="QA" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
+          <mxGeometry x="13.5" y="207" width="26.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-10" value="RA" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
+          <mxGeometry x="70" y="205" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-17" value="R&amp;amp;D" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
+          <mxGeometry x="140.9" y="205" width="39.1" height="35" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-37" value="BLOCKCHAIN APPLICATION" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=28;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#417CB9;fontColor=#417CB9;verticalAlign=top;align=center;spacingLeft=5;dashed=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="551.5" y="163" width="470" height="540" as="geometry" />
@@ -315,20 +324,20 @@
         <mxCell id="T21aQVliIUyU_0U-5JRh-87" value="Author为系统中内容的创作者，可用于发布内部通知等" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#8DC642;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="-120" y="254" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-88" value="MR" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#0DB39D;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-88" value="MR，管理者代表，拥有和Editor相同的权限，并可以根据&lt;br&gt;需要赋予特殊权限" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#0DB39D;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="-120" y="278.5" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-89" value="Data oriented services" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#335D81;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="298.5" width="20" height="10" as="geometry" />
+        <mxCell id="T21aQVliIUyU_0U-5JRh-89" value="QA：" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#335D81;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="308" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-90" value="DevOps" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#F3713C;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="318.5" width="20" height="10" as="geometry" />
+        <mxCell id="T21aQVliIUyU_0U-5JRh-90" value="RA：" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#F3713C;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="328" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-91" value="Blockchain services" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#A72870;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="358.5" width="20" height="10" as="geometry" />
+          <mxGeometry x="-120" y="368" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-92" value="Security" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#E52134;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="338.5" width="20" height="10" as="geometry" />
+        <mxCell id="T21aQVliIUyU_0U-5JRh-92" value="R&amp;amp;D" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#E52134;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="348" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-93" value="说明" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="158.5" width="150" height="20" as="geometry" />
