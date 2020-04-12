@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-12T08:36:30.053Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="6layhsfJwHY7D15nCem_" version="12.9.7" type="github">
+<mxfile modified="2020-04-12T08:41:18.325Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Lcmypp-J6Xggf0Y241CA" version="12.9.7" type="github">
   <diagram id="eIo0H9kK7ql945uVP1NC" name="Page-1">
     <mxGraphModel dx="2208" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,34 +214,37 @@
           <mxGeometry x="89" y="420" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-38" value="" style="group;fontSize=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="914" y="713" width="300" height="187" as="geometry" />
+          <mxGeometry x="914" y="713" width="490" height="187" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-26" value="China GMP" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/membership.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="23.68421052631579" y="16.26086956521739" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="34.42105263157895" y="16.26086956521739" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-27" value="ISO13485" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/consensus.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="94.73684210526316" y="16.26086956521739" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="137.6842105263158" y="16.26086956521739" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-28" value="QSR820" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/ledger.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="165.78947368421052" y="16.26086956521739" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="240.94736842105263" y="16.26086956521739" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-29" value="体系文档&lt;br&gt;自动化" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/smart_contract.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="236.8421052631579" y="16.26086956521739" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="344.21052631578954" y="16.26086956521739" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-30" value="MDSAP" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/event.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="23.68421052631579" y="105.69565217391305" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="34.42105263157895" y="105.69565217391305" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-31" value="角色控制" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/communication.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="94.73684210526316" y="105.69565217391305" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="137.6842105263158" y="105.69565217391305" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-32" value="文档存储及&lt;br&gt;版本控制" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/data/data_services.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="165.78947368421052" y="105.69565217391305" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+          <mxGeometry x="240.94736842105263" y="105.69565217391305" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-33" value="API" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/applications/application_logic.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry x="236.8421052631579" y="105.69565217391305" width="41.73913043478261" height="41.73913043478261" as="geometry" />
+        <mxCell id="T21aQVliIUyU_0U-5JRh-33" value="流程控制" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/applications/application_logic.svg;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
+          <mxGeometry x="344.21052631578954" y="105.69565217391305" width="39.90846681922197" height="39.90846681922197" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-34" value="" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=28;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#417CB9;fontColor=#417CB9;verticalAlign=top;align=left;spacingLeft=5;dashed=0;strokeWidth=2;fontSize=7;spacingTop=0;" parent="T21aQVliIUyU_0U-5JRh-38" vertex="1">
-          <mxGeometry width="300" height="187" as="geometry" />
+          <mxGeometry x="1.5" width="488.5" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-44" value="&lt;div&gt;&lt;font color=&quot;#0593ff&quot;&gt;现场体系&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0593ff&quot;&gt;核查辅助&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0593ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 0%&quot;&gt;&lt;font color=&quot;#0593ff&quot;&gt;模块&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/PluralSight_mono.svg;dashed=1;strokeColor=#FF4517;fillColor=none;" vertex="1" parent="T21aQVliIUyU_0U-5JRh-34">
+          <mxGeometry x="425.42" y="17.39" width="38.78" height="38.78" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-68" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="476.5" y="313" width="21" height="21" as="geometry" />
