@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-12T08:00:52.040Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="zgfwJBueF6T7-yqYqqw6" version="12.9.7" type="github">
+<mxfile modified="2020-04-12T08:02:41.017Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="lk6dvE8X6nqUPWQvpajy" version="12.9.7" type="github">
   <diagram id="eIo0H9kK7ql945uVP1NC" name="Page-1">
     <mxGraphModel dx="2208" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="T21aQVliIUyU_0U-5JRh-20" value="NODE K" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/blockchain/node.svg;" parent="1" vertex="1">
           <mxGeometry x="1264.5" y="413.00000000000006" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-21" value="NODE N" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/blockchain/node.svg;" parent="1" vertex="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-21" value="QA/or MR?" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/blockchain/node.svg;" parent="1" vertex="1">
           <mxGeometry x="1169" y="498" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-46" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=classicThin;endFill=1;rounded=0;strokeColor=#FF4517;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I2kvrOjtu-fjR7yVEJqX-21" edge="1">
@@ -165,9 +165,6 @@
         <mxCell id="T21aQVliIUyU_0U-5JRh-16" value="DATA BACKUP" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/data/data_services.svg;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
           <mxGeometry x="350" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-75" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
-          <mxGeometry x="389" y="364.5" width="21" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-4" value="WEB&lt;br&gt;APPLICATION&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/users/browser.svg;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
           <mxGeometry x="13" width="60" height="60" as="geometry" />
         </mxCell>
@@ -248,9 +245,6 @@
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-68" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="476.5" y="313" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-77" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1053.5" y="452" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-86" value="Editor为用户中权限最高的角色，可以在系统中创建&lt;br&gt;新用户，增加页面，写文章，创建分类，上传图片、视频&lt;br&gt;文档等" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#EBC01A;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="-120" y="221" width="20" height="10" as="geometry" />
@@ -368,6 +362,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1225.5" y="328" as="sourcePoint" />
             <mxPoint x="1275.5" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.368;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#FF4517;strokeWidth=2;" edge="1" parent="1" source="T21aQVliIUyU_0U-5JRh-11" target="T21aQVliIUyU_0U-5JRh-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="535" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
