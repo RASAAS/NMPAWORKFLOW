@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-12T02:55:40.733Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="5sdmx6nDA1voZx0m3K1N" version="12.9.7" type="github">
+<mxfile modified="2020-04-12T02:58:06.506Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="heflcOONP3zFjEAhwE5-" version="12.9.7" type="github">
   <diagram id="eIo0H9kK7ql945uVP1NC" name="Page-1">
     <mxGraphModel dx="2208" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-49" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=classicThin;endFill=1;rounded=0;strokeColor=#0076BE;strokeWidth=2;startArrow=classicThin;startFill=1;" parent="1" source="T21aQVliIUyU_0U-5JRh-6" target="T21aQVliIUyU_0U-5JRh-8" edge="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-49" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=classicThin;endFill=1;rounded=0;strokeColor=#0076BE;strokeWidth=2;startArrow=none;startFill=0;" parent="1" source="T21aQVliIUyU_0U-5JRh-6" target="T21aQVliIUyU_0U-5JRh-8" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="256.5" y="543" as="sourcePoint" />
             <mxPoint x="316.5" y="483" as="targetPoint" />
@@ -115,7 +115,7 @@
         <mxCell id="T21aQVliIUyU_0U-5JRh-5" value="其他用户？" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/applications/iot_application.svg;" parent="T21aQVliIUyU_0U-5JRh-36" vertex="1">
           <mxGeometry x="160" y="270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-6" value="ENTERPRISE&lt;br&gt;SYSTEMS&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/applications/mobile_app.svg;" parent="T21aQVliIUyU_0U-5JRh-36" vertex="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-6" value="用户权限" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/applications/mobile_app.svg;" parent="T21aQVliIUyU_0U-5JRh-36" vertex="1">
           <mxGeometry x="100" y="395" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I2kvrOjtu-fjR7yVEJqX-4" value="Editor" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.user_permissions;fillColor=#0078D7;" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
@@ -133,13 +133,13 @@
         <mxCell id="I2kvrOjtu-fjR7yVEJqX-17" value="R&amp;amp;D" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management" vertex="1" parent="T21aQVliIUyU_0U-5JRh-36">
           <mxGeometry x="140.9" y="205" width="39.1" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-37" value="BLOCKCHAIN APPLICATION" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=28;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#417CB9;fontColor=#417CB9;verticalAlign=top;align=center;spacingLeft=5;dashed=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-37" value="&lt;font color=&quot;#ff270f&quot;&gt;系统功能及模块&lt;/font&gt;" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=28;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#417CB9;fontColor=#417CB9;verticalAlign=top;align=center;spacingLeft=5;dashed=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="551.5" y="163" width="470" height="540" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-7" value="EDGE&lt;br&gt;SERVICES&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/infrastructure/edge_services.svg;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
           <mxGeometry x="-30" y="150" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-8" value="TRANSFORMATION&lt;br&gt;&amp;amp; CONNECTIVITY&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/blockchain/communication.svg;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
+        <mxCell id="T21aQVliIUyU_0U-5JRh-8" value="通过角色控制访问不同页面、&lt;br&gt;功能等" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=0;image;image=img/lib/ibm/blockchain/communication.svg;" parent="T21aQVliIUyU_0U-5JRh-37" vertex="1">
           <mxGeometry x="-30" y="395" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-48" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=classicThin;endFill=1;rounded=0;strokeColor=#0076BE;strokeWidth=2;startArrow=classicThin;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="T21aQVliIUyU_0U-5JRh-37" source="T21aQVliIUyU_0U-5JRh-7" target="T21aQVliIUyU_0U-5JRh-11" edge="1">
@@ -314,9 +314,6 @@
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-78" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1093.5" y="212" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="T21aQVliIUyU_0U-5JRh-85" value="17" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=7;fillColor=#939598;fontSize=14;align=center;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="466.5" y="577.5" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="T21aQVliIUyU_0U-5JRh-86" value="Editor为用户中权限最高的角色，可以在系统中创建&lt;br&gt;新用户，增加页面，写文章，创建分类，上传图片、视频&lt;br&gt;文档等" style="rounded=0;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#EBC01A;gradientColor=none;fontSize=12;fontColor=#4277BB;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="-120" y="221" width="20" height="10" as="geometry" />
