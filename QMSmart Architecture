@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-12T07:53:12.416Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="LRpND7E_yaRhmBG5FGuz" version="12.9.7" type="github">
+<mxfile modified="2020-04-12T07:54:23.154Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="JjAhpoyu74XBkyKF2rEk" version="12.9.7" type="github">
   <diagram id="eIo0H9kK7ql945uVP1NC" name="Page-1">
     <mxGraphModel dx="2208" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
         <mxCell id="I2kvrOjtu-fjR7yVEJqX-38" value="" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=28;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#417CB9;fontColor=#417CB9;verticalAlign=top;align=left;spacingLeft=5;dashed=0;strokeWidth=2;fontSize=7;spacingTop=0;" vertex="1" parent="I2kvrOjtu-fjR7yVEJqX-29">
           <mxGeometry width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="I2kvrOjtu-fjR7yVEJqX-33" value="注册文档" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/smart_contract.svg;" vertex="1" parent="I2kvrOjtu-fjR7yVEJqX-38">
+        <mxCell id="I2kvrOjtu-fjR7yVEJqX-33" value="注册文档自动化" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=7;spacingTop=0;image;image=img/lib/ibm/blockchain/smart_contract.svg;" vertex="1" parent="I2kvrOjtu-fjR7yVEJqX-38">
           <mxGeometry x="23.682105263157894" y="13.91304347826087" width="41.73913043478261" height="41.73913043478261" as="geometry" />
         </mxCell>
         <mxCell id="I2kvrOjtu-fjR7yVEJqX-42" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#FF4517;strokeWidth=2;" edge="1" parent="1">
