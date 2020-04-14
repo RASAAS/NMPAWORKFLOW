@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T07:30:36.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Vk7dAaf0sfKwz8AvEHkI" version="12.9.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-04-14T07:35:00.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="q2TkrpITBzBCjQ14ifML" version="12.9.7" type="github" pages="3">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
     <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -353,6 +353,27 @@
         <mxCell id="1_72-J_5lS7mYjxo-piZ-20" value="Scientific" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858;html=1;fontColor=#253858;align=left;fontSize=12;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-19">
           <mxGeometry y="0.5" width="24" height="24" relative="1" as="geometry">
             <mxPoint x="10" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
+          <mxGeometry x="470" y="240" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-22" value="Submitted data of the medical device shall at least include:&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-21">
+          <mxGeometry width="370" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-23" value="Protocol" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-21">
+          <mxGeometry width="370" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-24" value="The comments of the ethical committee" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-21">
+          <mxGeometry width="370" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-25" value="The clinical study report (including analysis on the complete clincial trial data and the conclusion" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-21">
+          <mxGeometry width="370" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
