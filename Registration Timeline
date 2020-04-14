@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T07:35:00.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="q2TkrpITBzBCjQ14ifML" version="12.9.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-04-14T07:47:52.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="9ht3NYtixEmvDxsiAoX-" version="12.9.7" type="github" pages="3">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
     <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2cJNymEKkWYJ6QnH5S-e" name="Page-2">
-    <mxGraphModel dx="1383" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="digLy1y9OqQolSy5c6N6-0" />
         <mxCell id="digLy1y9OqQolSy5c6N6-1" parent="digLy1y9OqQolSy5c6N6-0" />
@@ -310,6 +310,12 @@
         </mxCell>
         <mxCell id="1_72-J_5lS7mYjxo-piZ-6" value="To reach a consensus on the scientificity, integrity and sufficiency of the clinical evaluation data for the medical device under registration application" style="fillColor=#78CDD1;strokeColor=none;rounded=0;fontSize=13;fontColor=#050608;align=left;verticalAlign=middle;whiteSpace=wrap;spacingLeft=2;spacingRight=1;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
           <mxGeometry x="470" y="150" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=1;strokeWidth=2;fontSize=13;fontColor=#050608;" edge="1" parent="1_72-J_5lS7mYjxo-piZ-1" source="1_72-J_5lS7mYjxo-piZ-8" target="1_72-J_5lS7mYjxo-piZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=1;strokeWidth=2;fontSize=13;fontColor=#050608;" edge="1" parent="1_72-J_5lS7mYjxo-piZ-1" source="1_72-J_5lS7mYjxo-piZ-8" target="9EkUv3YTv2XVBdYp7zm8-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1_72-J_5lS7mYjxo-piZ-8" value="Submit documentation" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
           <mxGeometry x="180" y="280" width="260" height="30" as="geometry" />
@@ -375,6 +381,33 @@
           <mxGeometry width="370" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-27" value="Medical device oversea clinical trial data meet the relevant technical requirements, and the data are scientific, integrity, and sufficient" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#2B8D40;html=1;whiteSpace=wrap;fillColor=#33A64C;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;rounded=0;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
+          <mxGeometry x="30" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1_72-J_5lS7mYjxo-piZ-28" value="Totally acceptable" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#31A14A;strokeColor=#2B8D40;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-27">
+          <mxGeometry width="250" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=1;strokeWidth=2;fontSize=13;fontColor=#050608;" edge="1" parent="1_72-J_5lS7mYjxo-piZ-1" source="9EkUv3YTv2XVBdYp7zm8-0" target="9EkUv3YTv2XVBdYp7zm8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-0" value="Data does not fully meet the relevant technical requirements for the registration in China" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D89F20;html=1;whiteSpace=wrap;fillColor=#FFBC26;fontColor=#ffffff;verticalAlign=middle;align=left;spacing=20;spacingBottom=0;fontSize=14;rounded=0;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
+          <mxGeometry x="330" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-1" value="Partially acceptable" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7B625;strokeColor=#D89F20;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="9EkUv3YTv2XVBdYp7zm8-0">
+          <mxGeometry width="250" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.663;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=1;strokeWidth=2;fontSize=13;fontColor=#050608;" edge="1" parent="1_72-J_5lS7mYjxo-piZ-1" source="9EkUv3YTv2XVBdYp7zm8-3" target="9EkUv3YTv2XVBdYp7zm8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-3" value="Supplementary data meet the relevant technical requirements for the registration in China in the joint review" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#FFBC26;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#FFBC26;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;rounded=0;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
+          <mxGeometry x="640" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-4" value="Local supplementary trial needed" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#FFBC26;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="9EkUv3YTv2XVBdYp7zm8-3">
+          <mxGeometry width="250" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EkUv3YTv2XVBdYp7zm8-6" value="Acceptable" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=0;" vertex="1" parent="1_72-J_5lS7mYjxo-piZ-1">
+          <mxGeometry x="660" y="650" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
