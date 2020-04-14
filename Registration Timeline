@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T06:58:18.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ehIOYzgimZW7lIzhOxYE" version="12.9.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-14T07:09:48.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="zGUTLAGa6rpyvF75HtVT" version="12.9.7" type="github" pages="2">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
     <mxGraphModel dx="1381" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -257,12 +257,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2cJNymEKkWYJ6QnH5S-e" name="Page-2">
-    <mxGraphModel dx="717" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="digLy1y9OqQolSy5c6N6-0" />
         <mxCell id="digLy1y9OqQolSy5c6N6-1" parent="digLy1y9OqQolSy5c6N6-0" />
         <mxCell id="digLy1y9OqQolSy5c6N6-2" value="Medical Device Oversea Clinical Trial Data Assessment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
-          <mxGeometry x="130" y="88" width="510" height="30" as="geometry" />
+          <mxGeometry x="280" y="88" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="digLy1y9OqQolSy5c6N6-3" value="Integrity" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=#0057D8;fontSize=20;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
           <mxGeometry x="60" y="160" width="220" height="30" as="geometry" />
@@ -275,6 +275,18 @@
         </mxCell>
         <mxCell id="digLy1y9OqQolSy5c6N6-7" value="&lt;font size=&quot;1&quot;&gt;Global clinical trial shall comply with both ICH GCP and China GCP requirements;&lt;br&gt;&lt;br&gt;Applicant can consult NMPA reviewers for the clinical study design before the clinical trial execution.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#99FFFF;fontSize=20;labelBorderColor=none;align=left;spacingTop=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
           <mxGeometry x="300" y="190" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="digLy1y9OqQolSy5c6N6-8" value="Technical" style="dashed=0;html=1;rounded=1;fillColor=#00CC66;strokeColor=#00CCCC;fontSize=20;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
+          <mxGeometry x="540" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="digLy1y9OqQolSy5c6N6-9" value="&lt;font size=&quot;1&quot;&gt;Ethnic difference analysis between Chinese and global population according to ICH E5;&lt;br&gt;&lt;br&gt;Consistency in safety and efficacy between China and global population should be addressed and analyzed.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#99FFCC;fontSize=20;labelBorderColor=none;align=left;spacingTop=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
+          <mxGeometry x="540" y="190" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="digLy1y9OqQolSy5c6N6-10" value="Decision" style="dashed=0;html=1;rounded=1;fillColor=#0000FF;strokeColor=#0000FF;fontSize=20;align=center;fontStyle=1;strokeWidth=2;fontColor=#ffffff" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
+          <mxGeometry x="780" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="digLy1y9OqQolSy5c6N6-11" value="&lt;font size=&quot;1&quot;&gt;Totally acceptable;&lt;br&gt;&lt;br&gt;Partially acceptable : Local clinical trial needed;&lt;br&gt;&lt;br&gt;Unacceptable&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9999FF;fillColor=#9999FF;fontSize=20;labelBorderColor=none;align=left;spacingTop=0;spacingLeft=4;spacingRight=4;" vertex="1" parent="digLy1y9OqQolSy5c6N6-1">
+          <mxGeometry x="780" y="190" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
