@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T13:06:16.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="M_44H8puocPN0IFB_tNA" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T13:10:03.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JCSGyJfy21n1a4cKnKwf" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-33" value="现有数据" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-29">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-33" value="现有数据&lt;sup&gt;1&lt;/sup&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-29">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
@@ -124,7 +124,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-36" value="申报产品现有数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;" edge="1" parent="HCfn-Xpp_MMQ4of80etu-29" target="HCfn-Xpp_MMQ4of80etu-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="103" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-36" value="1. 申报产品现有数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-340" y="240" width="400" height="510" as="geometry" />
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-37" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
@@ -137,7 +142,7 @@
             <mxPoint x="-24" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-39" value="非临床研究数据：实验室研究、动物研究数据&lt;br&gt;&lt;br&gt;临床文献数据：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、临床经验数据。&lt;br&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrine, ClinicalTrials.gov&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;br&gt;&lt;br&gt;Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.&lt;br&gt;&lt;br&gt;Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-39" value="非临床研究数据：实验室研究、动物研究数据&lt;br&gt;&lt;br&gt;临床文献数据：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、临床经验数据。&lt;br&gt;&lt;font color=&quot;#00cc66&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, ClinicalTrials.gov, ICTRP (WHO)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;br&gt;&lt;br&gt;Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.&lt;br&gt;&lt;br&gt;Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
           <mxGeometry width="400" height="350" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
