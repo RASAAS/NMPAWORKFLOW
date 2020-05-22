@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T15:03:59.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="hViPY3NWCqNaAOLcED1C" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T15:06:01.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="iORwaXEVhY4oLh6ZLoz1" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,8 +210,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-59" target="HCfn-Xpp_MMQ4of80etu-61">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HCfn-Xpp_MMQ4of80etu-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692" y="666" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="710" y="666" />
+              <mxPoint x="710" y="529" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-63" value="数据充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-62">
           <mxGeometry x="-0.1381" relative="1" as="geometry">
@@ -219,11 +225,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=14;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-59" target="HCfn-Xpp_MMQ4of80etu-78">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="700" />
+              <mxPoint x="542" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-80" value="临床证据不足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-79">
           <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
-            <mxPoint x="-10.5" as="offset" />
+            <mxPoint x="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-59" value="可行性评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -255,7 +266,7 @@
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-82" value="临床证据不足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-81">
           <mxGeometry x="-0.0023" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="37" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-65" value="数据评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -266,6 +277,9 @@
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-78" value="针对差异性在中国境内开展临床试验" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;strokeWidth=1;fillColor=none;fontColor=#DB2843;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-83" value="临床数据预检索" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="660" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
