@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T14:51:51.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="2QYBvNYO5w1sESxoN5xd" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T14:58:21.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="92uil3qytjQp-OpdN3VL" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="是否在免临床目录中？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="HCfn-Xpp_MMQ4of80etu-59">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontSize=13;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="HCfn-Xpp_MMQ4of80etu-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="RCSC内部流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -203,14 +203,14 @@
             <mxPoint x="-130" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-57" value="" style="endArrow=none;dashed=1;html=1;fontSize=13;exitX=0.479;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-64">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-57" value="" style="endArrow=none;dashed=1;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="482" y="512" as="sourcePoint" />
+            <mxPoint x="482" y="580" as="sourcePoint" />
             <mxPoint x="482" y="609" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-59" target="HCfn-Xpp_MMQ4of80etu-61">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-59" target="HCfn-Xpp_MMQ4of80etu-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-63" value="数据充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-62">
@@ -221,11 +221,28 @@
         <mxCell id="HCfn-Xpp_MMQ4of80etu-59" value="可行性评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="615" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-61" value="开始撰写" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="510" width="90" height="40" as="geometry" />
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-61" value="开始撰写CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-64" target="HCfn-Xpp_MMQ4of80etu-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="310" width="420" height="230" as="geometry" />
+          <mxGeometry x="280" y="310" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-65" target="HCfn-Xpp_MMQ4of80etu-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-68" value="数据充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-67">
+          <mxGeometry x="-0.0448" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-65" value="数据评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-77" value="现有符合MEDDEV 2.7/1要求的CER(如有)&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="520" width="390" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
