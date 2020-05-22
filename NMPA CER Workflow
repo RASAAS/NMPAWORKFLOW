@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T15:40:29.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="iYfgZeJVvxXIs2bPuIfx" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T15:42:47.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="PbbiDwStI8G1_3Toq4cB" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-39" value="非临床研究数据：实验室研究、动物研究数据&lt;br&gt;&lt;br&gt;临床文献数据：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、临床经验数据。&lt;br&gt;&lt;font color=&quot;#00cc66&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, ClinicalTrials.gov, ICTRP (WHO)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;已完成的临床研究数据: 前瞻性研究、回顾性研究、随机对照研究、非随机对照研究、单组研究、病例报告等。&lt;br&gt;&lt;br&gt;不良事件数据：投诉和不良事件资料库中的记录（complaints）、各国监管机构发布的不良事件资料库中相应不良事件数据（FDA, MHRA, NMPA...）&lt;br&gt;&lt;br&gt;与临床风险相关的纠正措施数据:&amp;nbsp;召回、公告、警告等的具体信息、采取的风险控制措施等信息&lt;br&gt;&lt;br&gt;中国人群数据(如有)、针对差异性在中国境内开展的临床试验资料(如有)、其他支持性资料(如有)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-39" value="非临床研究数据：实验室研究、动物研究数据&lt;br&gt;&lt;br&gt;临床文献数据：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、临床经验数据。&lt;br&gt;&lt;font color=&quot;#00cc66&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, ClinicalTrials.gov, ICTRP (WHO)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;已完成的临床研究数据: 前瞻性研究、回顾性研究、随机对照研究、非随机对照研究、单组研究、病例报告等。&lt;br&gt;&lt;br&gt;不良事件数据：投诉和不良事件资料库中的记录（complaints）、各国监管机构发布的不良事件资料库中相应不良事件数据（FDA, MHRA, NMPA...）；全球销售数据（5年内，如有）&lt;br&gt;&lt;br&gt;与临床风险相关的纠正措施数据:&amp;nbsp;召回、公告、警告等的具体信息、采取的风险控制措施等信息&lt;br&gt;&lt;br&gt;中国人群数据(如有)、针对差异性在中国境内开展的临床试验资料(如有)、其他支持性资料(如有)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
           <mxGeometry width="340" height="350" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
@@ -145,7 +145,7 @@
             <mxPoint y="420" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-41" value="Submit Data" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-41" value="Submit Data" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#00CC66;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
           <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
             <mxPoint x="-130" y="-60" as="offset" />
           </mxGeometry>
@@ -194,7 +194,7 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-54" value="临床研究数据集：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、前瞻性研究、回顾性研究、随机对照研究、非随机对照研究、单组研究、病例报告等。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, CNKI，Wangfang，ClinicalTrials.gov, ICTRP (WHO)，CHICTR(中国临床试验注册中心)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;投诉和不良事件数据集：投诉和不良事件资料库中的记录（complaints）、各国监管机构发布的不良事件资料库中相应不良事件数据（FDA, MHRA, NMPA...）&lt;br&gt;&lt;br&gt;与临床风险相关的纠正措施数据集:&amp;nbsp;召回、公告、警告等的具体信息、采取的风险控制措施等信息&lt;br&gt;&lt;br&gt;中国人群数据集(如有)&lt;br&gt;&lt;br&gt;多个数据集的综合评价及结论(如有)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-52">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-54" value="临床研究数据集：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、前瞻性研究、回顾性研究、随机对照研究、非随机对照研究、单组研究、病例报告等。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, CNKI，Wangfang，ClinicalTrials.gov, ICTRP (WHO)，CHICTR(中国临床试验注册中心)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;投诉和不良事件数据集：投诉和不良事件资料库中的记录（complaints）、各国监管机构发布的不良事件资料库中相应不良事件数据（FDA, MHRA, NMPA...）；全球及中国销售数据（10年内，如有）&lt;br&gt;&lt;br&gt;与临床风险相关的纠正措施数据集:&amp;nbsp;召回、公告、警告等的具体信息、采取的风险控制措施等信息&lt;br&gt;&lt;br&gt;中国人群数据集(如有)&lt;br&gt;&lt;br&gt;多个数据集的综合评价及结论(如有)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-52">
           <mxGeometry width="340" height="350" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
