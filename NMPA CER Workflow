@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T15:15:20.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="tHYu-WbA8P5i3UET1ppx" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T15:19:39.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="s0SUpCQyboqPG1f5D5pF" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-92" value="Option 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-91">
           <mxGeometry x="-0.5678" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -283,8 +283,29 @@
         <mxCell id="HCfn-Xpp_MMQ4of80etu-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-84" target="HCfn-Xpp_MMQ4of80etu-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-84" value="同品种器械信息评估" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="620" width="140" height="20" as="geometry" />
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-93" value="信息完整、充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-89">
+          <mxGeometry x="0.0141" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="748" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="748" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-96" value="无法获得完整数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="HCfn-Xpp_MMQ4of80etu-95">
+          <mxGeometry x="0.0194" y="7" relative="1" as="geometry">
+            <mxPoint x="-6" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-84" value="同品种器械性能、参数信息评估" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-94" value="对同品种产品实施委托检测并获取实测数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="750" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
