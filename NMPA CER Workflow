@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T13:10:03.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JCSGyJfy21n1a4cKnKwf" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T13:10:43.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ATZNuOfSUERWIQ_lqNUY" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,14 +152,9 @@
             <mxPoint y="420" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-41" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-41" value="Submit Data" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
           <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
             <mxPoint x="-130" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCfn-Xpp_MMQ4of80etu-42" value="Close" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#6C757D;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-36">
-          <mxGeometry x="1" y="1" width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="-220" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
