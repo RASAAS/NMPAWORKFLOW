@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-22T15:19:39.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="s0SUpCQyboqPG1f5D5pF" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-22T15:24:34.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="FPzsYCFcHV2zlS2UJEvH" version="13.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,6 +248,9 @@
         <mxCell id="HCfn-Xpp_MMQ4of80etu-59" value="可行性评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="615" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HCfn-Xpp_MMQ4of80etu-61" target="HCfn-Xpp_MMQ4of80etu-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-61" value="开始撰写CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="510" width="120" height="40" as="geometry" />
         </mxCell>
@@ -306,6 +309,19 @@
         </mxCell>
         <mxCell id="HCfn-Xpp_MMQ4of80etu-94" value="对同品种产品实施委托检测并获取实测数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="750" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-97" value="&lt;font&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;同品种医疗器械判定&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;color: rgb(108 , 118 , 125)&quot;&gt;16项对比表&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;申报产品与同品种医疗器械的差异不对产品的安全有效性产生不利影响，可视为基本等同。" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="435" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-98" value="有源产品" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-97">
+          <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCfn-Xpp_MMQ4of80etu-99" value="无源产品" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="HCfn-Xpp_MMQ4of80etu-97">
+          <mxGeometry y="1" width="100" height="40" relative="1" as="geometry">
+            <mxPoint x="100" y="-50" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
