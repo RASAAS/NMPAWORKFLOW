@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T02:22:39.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="2nFEUTQodwT03Cxl8UJ4" version="13.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-23T03:10:27.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pMRjqQCjiM0tI0mbni9G" version="13.1.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,13 +378,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zi1R6ii5f9xgtqnd4jPh" name="Page-2">
-    <mxGraphModel dx="902" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="902" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="bvb9BdtlIx5CpSC98h6Z-0" />
         <mxCell id="bvb9BdtlIx5CpSC98h6Z-1" parent="bvb9BdtlIx5CpSC98h6Z-0" />
-        <mxCell id="bvb9BdtlIx5CpSC98h6Z-2" value="Clinical Evaluation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
-          <mxGeometry x="250" y="240" width="150" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
