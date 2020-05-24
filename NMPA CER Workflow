@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T08:32:18.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vBBpNmc87ws2U3zjrKvY" version="13.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-24T08:36:26.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="W3B--hN5TQIuMgRyTV6U" version="13.1.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-36" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Non-clinical data：lab test, animal study&lt;br&gt;&lt;br&gt;Literature：obtained from public scientific literature released in China and/or overseas and legally obtained data, including clinical literature data and clinical use data.&lt;br&gt;&lt;font color=&quot;#00cc66&quot; style=&quot;font-size: 12px&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, ClinicalTrials.gov, ICTRP (WHO)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;Completed Clinical Trials: prospective study, retrospective study, random control study, nonrandom control study, single-arm study, and case report.&lt;br&gt;&lt;br&gt;Adverse Events Data：complaints recorded, adverse events database issued by the regulatory authorities (FDA, MHRA, NMPA...)；global sales data (recent 5 years, if any)&lt;br&gt;&lt;br&gt;Corrective Measures Associated with Clinical Risks:&amp;nbsp;recall, announcements, warnings, etc., as well as risk control measures.&lt;br&gt;&lt;br&gt;Data Sets of Chinese Population, Clinical Trials data Conducted in China (if any)、Other data (if any).&lt;/font&gt;" style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-34">
           <mxGeometry width="340" height="350" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
+            <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-37" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-34">
@@ -596,9 +596,9 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-50" value="临床研究数据集：来自中国境内和/或境外公开发表的科学文献和合法获得的相应数据，包括临床文献数据、前瞻性研究、回顾性研究、随机对照研究、非随机对照研究、单组研究、病例报告等。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, CNKI，Wangfang，ClinicalTrials.gov, ICTRP (WHO)，CHICTR(中国临床试验注册中心)...&lt;/font&gt;&lt;br&gt;&lt;br&gt;投诉和不良事件数据集：投诉和不良事件资料库中的记录（complaints）、各国监管机构发布的不良事件资料库中相应不良事件数据（FDA, MHRA, NMPA...）；全球及中国销售数据（10年内，如有）&lt;br&gt;&lt;br&gt;与临床风险相关的纠正措施数据集:&amp;nbsp;召回、公告、警告等的具体信息、采取的风险控制措施等信息&lt;br&gt;&lt;br&gt;中国人群数据集(如有)&lt;br&gt;&lt;br&gt;多个数据集的综合评价及结论(如有)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-48">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-50" value="Clinical data sets：obtained from public scientific literature released in China and/or overseas and legally obtained data, including clinical literature data and clinical use data. such as prospective study, retrospective study, random control study, nonrandom control study, single-arm study, and case report.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;Database:&amp;nbsp;PubMed, ScienceDirect, Embase, Cochrane, CNKI，Wangfang，ClinicalTrials.gov, ICTRP (WHO)，CHICTR(中国临床试验注册中心)...&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Adverse Events Data：complaints recorded, adverse events database issued by the regulatory authorities (FDA, MHRA, NMPA...)；global and China sales data (recent 10 years, if any)&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Corrective Measures Associated with Clinical Risks:&amp;nbsp;recall, announcements, warnings, etc., as well as risk control measures.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Data Sets of Chinese Population (if any)&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Comprehensive Evaluation and Conclusion of Multiple Data Sets and conclusion (if any)." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-48">
           <mxGeometry width="340" height="350" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
+            <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-51" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-48">
