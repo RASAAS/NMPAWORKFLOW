@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T08:36:26.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="W3B--hN5TQIuMgRyTV6U" version="13.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-24T08:36:48.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Qq6jSgy3VvJnhvyQhKqk" version="13.1.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,7 +588,7 @@
             <mxPoint x="1310" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-48" value="2. 同品种产品现有数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-48" value="2. Equivalent device available data" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
           <mxGeometry x="-220" y="240" width="340" height="510" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-49" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-48">
