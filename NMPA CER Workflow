@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T08:05:58.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="L4dYkaIYya_R97SRQ8Bv" version="13.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-24T08:07:03.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Kdk7vmn4siBlQY4deIiB" version="13.1.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,11 +513,10 @@
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#00CC66;fontSize=14;fontColor=#000000;exitX=0.529;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-390" y="230" as="sourcePoint" />
-            <mxPoint x="1360" y="331" as="targetPoint" />
+            <mxPoint x="1402" y="326" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-390" y="90" />
-              <mxPoint x="1360" y="90" />
-              <mxPoint x="1360" y="331" />
+              <mxPoint x="1402" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -580,12 +579,13 @@
             <mxPoint x="-1.08" y="103" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;fontColor=#000000;exitX=0.488;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-48" target="DRWXBRTQPvX7nNUZctfZ-3">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;fontColor=#000000;exitX=0.488;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-54" y="130" />
               <mxPoint x="1310" y="130" />
             </Array>
+            <mxPoint x="1310" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-48" value="2. 同品种产品现有数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
