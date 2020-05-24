@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T07:55:05.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="01VlDe3ldl3IqNZaEEOZ" version="13.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-24T08:05:58.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="L4dYkaIYya_R97SRQ8Bv" version="13.1.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1729" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#050608;strokeWidth=2;fillColor=none;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="1200" y="331" width="270" height="410" as="geometry" />
+          <mxGeometry x="1250" y="330" width="270" height="410" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-5" target="DRWXBRTQPvX7nNUZctfZ-8">
           <mxGeometry relative="1" as="geometry">
@@ -417,7 +417,7 @@
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontSize=13;dashed=1;strokeColor=#FF0000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-10" target="DRWXBRTQPvX7nNUZctfZ-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-10" value="RCSC内部流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-10" value="RCSC&#39;s SOP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
           <mxGeometry x="414" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-11" value="Detailed data of device in question and equivalent device" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
@@ -627,25 +627,27 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="692" y="666" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="710" y="677" />
-              <mxPoint x="710" y="529" />
+              <mxPoint x="720" y="677" />
+              <mxPoint x="720" y="529" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-56" value="数据充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-55">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-56" value="sufficient data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-55">
           <mxGeometry x="-0.1381" relative="1" as="geometry">
-            <mxPoint y="-19" as="offset" />
+            <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=14;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-60" target="DRWXBRTQPvX7nNUZctfZ-68">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontSize=14;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="635" y="700" />
               <mxPoint x="542" y="700" />
+              <mxPoint x="542" y="756" />
             </Array>
+            <mxPoint x="542" y="756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-58" value="临床证据不足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-57">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-58" value="insufficient data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-57">
           <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
             <mxPoint x="-49.010000000000005" y="19" as="offset" />
           </mxGeometry>
@@ -653,13 +655,13 @@
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=14;dashed=1;strokeColor=#007FFF;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-60" target="DRWXBRTQPvX7nNUZctfZ-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-60" value="可行性评估" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-60" value="Strategy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
           <mxGeometry x="590" y="615" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-62" target="DRWXBRTQPvX7nNUZctfZ-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-62" value="开始撰写CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-62" value="Start writing CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
           <mxGeometry x="760" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;strokeColor=#050608;fontSize=14;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-65">
@@ -682,78 +684,79 @@
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=14;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-68" target="DRWXBRTQPvX7nNUZctfZ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-68" value="针对差异性在中国境内开展临床试验" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;strokeWidth=1;fillColor=none;fontColor=#DB2843;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="480" y="750" width="120" height="40" as="geometry" />
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-68" value="&lt;div&gt;Partial clinical trial in China, its data can be fit into the CER as the additional evidence&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;strokeWidth=1;fillColor=none;fontColor=#DB2843;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+          <mxGeometry x="400" y="760" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-69" value="临床数据预检索" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-69" value="Pre. Lit. search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
           <mxGeometry x="575" y="670" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;dashed=1;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-74" target="DRWXBRTQPvX7nNUZctfZ-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-71" value="信息完整、充分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-70">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-71" value="sufficient info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-70">
           <mxGeometry x="0.0141" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-74">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-74" target="DRWXBRTQPvX7nNUZctfZ-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="748" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="840" y="748" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-73" value="无法获得完整数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-72">
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-73" value="insufficient info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="DRWXBRTQPvX7nNUZctfZ-72">
           <mxGeometry x="0.0194" y="7" relative="1" as="geometry">
             <mxPoint x="-6" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-74" value="同品种器械性能、参数信息评估" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="770" y="610" width="140" height="40" as="geometry" />
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-74" value="Safety and performance assessment for equivalent device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+          <mxGeometry x="770" y="595" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-76" target="DRWXBRTQPvX7nNUZctfZ-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-76" value="对同品种产品实施委托检测并获取实测数据" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="760" y="750" width="150" height="40" as="geometry" />
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-76" value="Type testing on equivalent device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+          <mxGeometry x="760" y="760" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1" source="DRWXBRTQPvX7nNUZctfZ-78" target="DRWXBRTQPvX7nNUZctfZ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-78" value="&lt;font&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;同品种医疗器械判定&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;color: rgb(108 , 118 , 125)&quot;&gt;16项对比表&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;申报产品与同品种医疗器械的差异不对产品的安全有效性产生不利影响，可视为基本等同。" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="920" y="435" width="250" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-79" value="有源产品" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-78">
-          <mxGeometry y="1" width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="10" y="-50" as="offset" />
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1169" y="529" as="sourcePoint" />
+            <mxPoint x="1249" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DRWXBRTQPvX7nNUZctfZ-80" value="无源产品" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-78">
-          <mxGeometry y="1" width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="100" y="-50" as="offset" />
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-78" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Identification of equivalence&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;color: rgb(108 , 118 , 125)&quot;&gt;16 comparison items&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;If the differences do not have negative impact on the safety and effectiveness of the device in question, it is substentially equivalent to the compared device." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
+          <mxGeometry x="920" y="435" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-79" value="Active device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-78">
+          <mxGeometry y="1" width="96.00000000000001" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DRWXBRTQPvX7nNUZctfZ-80" value="Non-active device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=none;strokeColor=none;fontColor=#0085FC;resizeWidth=1;fontSize=14;align=center;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-78">
+          <mxGeometry y="1" width="120.00000000000003" height="40" relative="1" as="geometry">
+            <mxPoint x="160" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;申报产品&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;支持性资料（自身非临床研究、临床文献数据、临床经验数据等）" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#2B8D40;html=1;whiteSpace=wrap;fillColor=#33A64C;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="1210" y="350" width="250" height="180" as="geometry" />
+          <mxGeometry x="1260" y="349" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-82" value="分析评价" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#31A14A;strokeColor=#2B8D40;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-81">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;同品种产品&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;根据同品种医疗器械的具体情形选择适合的临床文献数据、临床经验数据来源和收集方法。" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="1210" y="540" width="250" height="180" as="geometry" />
+          <mxGeometry x="1260" y="539" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-84" value="分析评价" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-83">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-85" value="报告" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="1510" y="479" width="70" height="100" as="geometry" />
+          <mxGeometry x="1560" y="478" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-86" value="报告及附件" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="1520" y="490" width="70" height="100" as="geometry" />
+          <mxGeometry x="1570" y="489" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NOTES: &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*&amp;nbsp;Medical Devices Exempted from Clinical Trial&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DRWXBRTQPvX7nNUZctfZ-1">
-          <mxGeometry x="-310" y="790" width="370" height="40" as="geometry" />
+          <mxGeometry x="-370" y="-80" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
