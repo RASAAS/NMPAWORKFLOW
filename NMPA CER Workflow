@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T08:55:43.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="4P8Vhc4EsqPQhB_QST7k" version="13.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-09T09:03:45.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Gh3zdPYIV-QzigghtPfR" version="13.1.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2196" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -768,6 +768,9 @@
       <root>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-0" />
         <mxCell id="yNY_oExhDgxzfdpw6LYT-1" parent="yNY_oExhDgxzfdpw6LYT-0" />
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-99" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxGeometry x="340" y="495" width="430" height="175" as="geometry" />
+        </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-2" target="yNY_oExhDgxzfdpw6LYT-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -799,14 +802,9 @@
         <mxCell id="yNY_oExhDgxzfdpw6LYT-9" value="Is it in the&amp;nbsp;MDECT&lt;font style=&quot;font-size: 19px&quot;&gt;*&lt;/font&gt; ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
           <mxGeometry x="110" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontSize=13;dashed=1;strokeColor=#FF0000;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" target="yNY_oExhDgxzfdpw6LYT-61">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534" y="630" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="650" as="targetPoint" />
+            <mxPoint x="290" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-2">
@@ -837,84 +835,6 @@
         <mxCell id="yNY_oExhDgxzfdpw6LYT-26" value="Report" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
           <mxGeometry x="790" y="180" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=13;dashed=1;exitX=1.025;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="692" y="666" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="720" y="677" />
-              <mxPoint x="720" y="529" />
-            </Array>
-            <mxPoint x="760" y="529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-57" value="sufficient data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="yNY_oExhDgxzfdpw6LYT-56">
-          <mxGeometry x="-0.1381" relative="1" as="geometry">
-            <mxPoint y="-9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontSize=14;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="635" y="700" />
-              <mxPoint x="542" y="700" />
-              <mxPoint x="542" y="756" />
-            </Array>
-            <mxPoint x="542" y="756" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-59" value="insufficient data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="yNY_oExhDgxzfdpw6LYT-58">
-          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
-            <mxPoint x="-49.010000000000005" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;fontSize=14;dashed=1;strokeColor=#007FFF;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-61" target="yNY_oExhDgxzfdpw6LYT-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-61" value="Strategy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;dashed=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="590" y="615" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-68" value="&lt;div&gt;Partial clinical trial in China, its data can be fit into the CER as the additional evidence&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;strokeWidth=1;fillColor=none;fontColor=#DB2843;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="400" y="760" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-69" value="Pre. Lit. search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="575" y="670" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;dashed=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840.04" y="549" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-71" value="sufficient info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="yNY_oExhDgxzfdpw6LYT-70">
-          <mxGeometry x="0.0141" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;strokeColor=#007FFF;fontSize=14;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-74" target="yNY_oExhDgxzfdpw6LYT-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="748" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-73" value="insufficient info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="yNY_oExhDgxzfdpw6LYT-72">
-          <mxGeometry x="0.0194" y="7" relative="1" as="geometry">
-            <mxPoint x="-6" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-74" value="Safety and performance assessment for equivalent device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="770" y="595" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-76" target="yNY_oExhDgxzfdpw6LYT-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-76" value="Type testing on equivalent device" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="760" y="760" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1169" y="529" as="sourcePoint" />
-            <mxPoint x="1249" y="529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-78" target="yNY_oExhDgxzfdpw6LYT-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -934,7 +854,7 @@
           <mxGeometry x="1450" y="360" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NOTES: &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*&amp;nbsp;Medical Devices Exempted from Clinical Trial&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
-          <mxGeometry x="250" y="860" width="370" height="40" as="geometry" />
+          <mxGeometry x="370" y="100" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-89" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
           <mxGeometry x="290" y="384" width="40" height="20" as="geometry" />
@@ -944,6 +864,33 @@
         </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-94" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
           <mxGeometry x="780" y="384" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-98" value="Conduct clinical trial in China, and form the clinical study report to replace CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxGeometry x="360" y="505" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1470" y="573" />
+              <mxPoint x="1470" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-100" value="&lt;div&gt;Partial clinical trial in China, its data can be fit into the CER as the additional evidence&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#00CC66;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxGeometry x="360" y="552.5" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-102" value="&lt;div&gt;Submit oversea clinical study, or Intl. Muti-Center study (including Chinese center) report, or use the data as supplementary evidence in the CER&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FF3399;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxGeometry x="360" y="600" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="628.75" as="sourcePoint" />
+            <mxPoint x="1496" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1496" y="629" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
