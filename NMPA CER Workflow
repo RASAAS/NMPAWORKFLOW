@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T09:03:45.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Gh3zdPYIV-QzigghtPfR" version="13.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-09T10:13:55.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Fm2wakk9fgmDmhCsT4iT" version="13.1.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2196" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="ISZFQiF0_nLBPnDa77OX">
-    <mxGraphModel dx="2196" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-0" />
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-1" parent="DRWXBRTQPvX7nNUZctfZ-0" />
@@ -764,7 +764,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Page-1" id="ZOhKEzeBaffn2yYt1uNX">
-    <mxGraphModel dx="1369" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-0" />
         <mxCell id="yNY_oExhDgxzfdpw6LYT-1" parent="yNY_oExhDgxzfdpw6LYT-0" />
@@ -774,7 +774,7 @@
         <mxCell id="yNY_oExhDgxzfdpw6LYT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-2" target="yNY_oExhDgxzfdpw6LYT-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Could the applicant prove that the differences do not have negative impact on the safety and effectiveness of the registration device based on the data of the PUA gathered from nonclinical studies, and/or clinical literature data, and/or clinical experience data, and/or clinical trial data conducted in China to address any difference?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;align=left;spacingLeft=4;spacingRight=4;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Could the applicant prove that the differences do not have negative impact on the safety and effectiveness based on the data of device in question gathered from nonclinical studies, and/or clinical literature data, and/or clinical experience data, and/or clinical trial data conducted in China to address any difference?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;align=left;spacingLeft=4;spacingRight=4;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
           <mxGeometry x="340" y="345" width="430" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-6" target="yNY_oExhDgxzfdpw6LYT-9">
