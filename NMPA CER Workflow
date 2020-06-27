@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T10:13:55.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Fm2wakk9fgmDmhCsT4iT" version="13.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-27T05:15:08.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="mTKQwqY-omxcWpFvn65O" version="13.3.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2196" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="ISZFQiF0_nLBPnDa77OX">
-    <mxGraphModel dx="2196" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-0" />
         <mxCell id="DRWXBRTQPvX7nNUZctfZ-1" parent="DRWXBRTQPvX7nNUZctfZ-0" />
@@ -764,111 +764,111 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Page-1" id="ZOhKEzeBaffn2yYt1uNX">
-    <mxGraphModel dx="1369" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yNY_oExhDgxzfdpw6LYT-0" />
         <mxCell id="yNY_oExhDgxzfdpw6LYT-1" parent="yNY_oExhDgxzfdpw6LYT-0" />
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-99" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-99" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="340" y="495" width="430" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-2" target="yNY_oExhDgxzfdpw6LYT-78">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-2" target="yNY_oExhDgxzfdpw6LYT-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Could the applicant prove that the differences do not have negative impact on the safety and effectiveness based on the data of device in question gathered from nonclinical studies, and/or clinical literature data, and/or clinical experience data, and/or clinical trial data conducted in China to address any difference?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;align=left;spacingLeft=4;spacingRight=4;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Could the applicant prove that the differences do not have negative impact on the safety and effectiveness based on the data of device in question gathered from nonclinical studies, and/or clinical literature data, and/or clinical experience data, and/or clinical trial data conducted in China to address any difference?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;strokeWidth=2;align=left;spacingLeft=4;spacingRight=4;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="340" y="345" width="430" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-6" target="yNY_oExhDgxzfdpw6LYT-9">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-6" target="yNY_oExhDgxzfdpw6LYT-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Device in question" link="http://project.nmpa.support/clinical-evaluation/basic-information-of-device-in-question/" id="yNY_oExhDgxzfdpw6LYT-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
             <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-7" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-9" target="yNY_oExhDgxzfdpw6LYT-12">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-7" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-9" target="yNY_oExhDgxzfdpw6LYT-12" edge="1">
           <mxGeometry x="-0.4545" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="220" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-9">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-9" edge="1">
           <mxGeometry x="-0.5238" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="414" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-9" value="Is it in the&amp;nbsp;MDECT&lt;font style=&quot;font-size: 19px&quot;&gt;*&lt;/font&gt; ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-9" value="Is it in the&amp;nbsp;MDECT&lt;font style=&quot;font-size: 19px&quot;&gt;*&lt;/font&gt; ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="110" y="190" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-99">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-2">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-12" target="yNY_oExhDgxzfdpw6LYT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-12" value="Is there an equivalent device?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-12" value="Is there an equivalent device?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-21" value="&lt;div&gt;Comparison between device in question and the device in the Catalogue of MDECT&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=13;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-21" value="&lt;div&gt;Comparison between device in question and the device in the Catalogue of MDECT&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=13;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="414" y="180" width="196" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-22" value="&lt;div&gt;Comparison between device in question and equivalent device(s) approved in China&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=13;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-22" value="&lt;div&gt;Comparison between device in question and equivalent device(s) approved in China&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=13;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="414" y="230" width="196" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;endArrow=block;endFill=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-24" target="yNY_oExhDgxzfdpw6LYT-26">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;endArrow=block;endFill=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-24" target="yNY_oExhDgxzfdpw6LYT-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-24" value="Baisc analysis" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-24" value="Baisc analysis" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="640" y="210" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=-0.018;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" target="yNY_oExhDgxzfdpw6LYT-24">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=-0.018;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yNY_oExhDgxzfdpw6LYT-1" target="yNY_oExhDgxzfdpw6LYT-24" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="610" y="229" as="sourcePoint" />
             <mxPoint x="570" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-26" value="Report" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-26" value="Report" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="790" y="180" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-78" target="yNY_oExhDgxzfdpw6LYT-81">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-78" target="yNY_oExhDgxzfdpw6LYT-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-78" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Identification of equivalence&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;color: rgb(108 , 118 , 125)&quot;&gt;16 comparison items&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;If the differences do not have negative impact on the safety and effectiveness of the device in question, it is substentially equivalent to the compared device." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-78" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Identification of equivalence&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;color: rgb(108 , 118 , 125)&quot;&gt;16 comparison items&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;If the differences do not have negative impact on the safety and effectiveness of the device in question, it is substentially equivalent to the compared device." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="820" y="315" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-81" target="yNY_oExhDgxzfdpw6LYT-86">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-81" target="yNY_oExhDgxzfdpw6LYT-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-81" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span id=&quot;docs-internal-guid-b794eb75-7fff-4e26-62ca-47caab8a6337&quot;&gt;&lt;span style=&quot;font-size: 14pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Collect and analyze clinical literature and/or experience data of the device in question and equivalent device&lt;/span&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#2B8D40;html=1;whiteSpace=wrap;fillColor=#33A64C;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-81" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span id=&quot;docs-internal-guid-b794eb75-7fff-4e26-62ca-47caab8a6337&quot;&gt;&lt;span style=&quot;font-size: 14pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Collect and analyze clinical literature and/or experience data of the device in question and equivalent device&lt;/span&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#2B8D40;html=1;whiteSpace=wrap;fillColor=#33A64C;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="1150" y="320" width="250" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-82" value="Analysis &amp;amp; Evaluation" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#31A14A;strokeColor=#2B8D40;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-81">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-82" value="Analysis &amp;amp; Evaluation" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#31A14A;strokeColor=#2B8D40;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" parent="yNY_oExhDgxzfdpw6LYT-81" vertex="1">
           <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-86" value="CER &amp;amp; Attachment" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-86" value="CER &amp;amp; Attachment" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="1450" y="360" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NOTES: &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*&amp;nbsp;Medical Devices Exempted from Clinical Trial&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NOTES: &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*&amp;nbsp;Medical Devices Exempted from Clinical Trial&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="370" y="100" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-89" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-89" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="290" y="384" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-91" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-91" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="220" y="539" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-94" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-94" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="780" y="384" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-98" value="Conduct clinical trial in China, and form the clinical study report to replace CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-98" value="Conduct clinical trial in China, and form the clinical study report to replace CER" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="360" y="505" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-100">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yNY_oExhDgxzfdpw6LYT-1" source="yNY_oExhDgxzfdpw6LYT-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1470" y="460" as="targetPoint" />
             <Array as="points">
@@ -877,13 +877,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-100" value="&lt;div&gt;Partial clinical trial in China, its data can be fit into the CER as the additional evidence&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#00CC66;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-100" value="&lt;div&gt;Partial clinical trial in China, its data can be fit into the CER as the additional evidence&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#00CC66;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="360" y="552.5" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-102" value="&lt;div&gt;Submit oversea clinical study, or Intl. Muti-Center study (including Chinese center) report, or use the data as supplementary evidence in the CER&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FF3399;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-102" value="&lt;div&gt;Submit oversea clinical study, or Intl. Muti-Center study (including Chinese center) report, or use the data as supplementary evidence in the CER&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FF3399;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="yNY_oExhDgxzfdpw6LYT-1" vertex="1">
           <mxGeometry x="360" y="600" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yNY_oExhDgxzfdpw6LYT-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="yNY_oExhDgxzfdpw6LYT-1">
+        <mxCell id="yNY_oExhDgxzfdpw6LYT-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="yNY_oExhDgxzfdpw6LYT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="628.75" as="sourcePoint" />
             <mxPoint x="1496" y="460" as="targetPoint" />
@@ -900,6 +900,107 @@
       <root>
         <mxCell id="bvb9BdtlIx5CpSC98h6Z-0" />
         <mxCell id="bvb9BdtlIx5CpSC98h6Z-1" parent="bvb9BdtlIx5CpSC98h6Z-0" />
+        <mxCell id="Mt591qa0nszCNzgNp4NT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-0" target="Mt591qa0nszCNzgNp4NT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-0" value="Search returned literature" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="365" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-1" target="Mt591qa0nszCNzgNp4NT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-1" value="Read the title and abstract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="355" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-5" target="Mt591qa0nszCNzgNp4NT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-14">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-5" target="Mt591qa0nszCNzgNp4NT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-24">
+          <mxGeometry x="-0.6871" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-5" value="Meet screening criteria?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="335" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-6" target="Mt591qa0nszCNzgNp4NT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-6" value="May ne eligible" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="365" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-7" target="Mt591qa0nszCNzgNp4NT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-7" value="Read full text" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="365" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-8" target="Mt591qa0nszCNzgNp4NT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-8" target="Mt591qa0nszCNzgNp4NT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-30" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-22">
+          <mxGeometry x="-0.104" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-8" target="Mt591qa0nszCNzgNp4NT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-23">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-8" value="Meet screening criteria?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="335" y="660" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-9" target="Mt591qa0nszCNzgNp4NT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-9" value="Contact author" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="365" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-10" target="Mt591qa0nszCNzgNp4NT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-33" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-25">
+          <mxGeometry x="-0.664" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bvb9BdtlIx5CpSC98h6Z-1" source="Mt591qa0nszCNzgNp4NT-10" target="Mt591qa0nszCNzgNp4NT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt591qa0nszCNzgNp4NT-26">
+          <mxGeometry x="-0.7239" y="2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-10" value="Meet screening criteria?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="335" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-11" value="Exclude literature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-12" value="Include in the analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="640" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mt591qa0nszCNzgNp4NT-31" value="Not determined" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="bvb9BdtlIx5CpSC98h6Z-1">
+          <mxGeometry x="425" y="750" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
