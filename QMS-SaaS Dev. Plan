@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-27T12:58:56.862Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="WHllzIw4isri8DG_0oox" version="13.6.10" type="github" pages="2">
+<mxfile modified="2020-10-27T13:10:20.215Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="RzoFkmXCeM6DMsEQtn-B" version="13.6.10" type="github" pages="2">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1388" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -306,7 +306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vTzB_pkmoTNqJFlo5Ee-" name="Page-2">
-    <mxGraphModel dx="2238" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-0" />
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-1" parent="IIsPufFwi5BH_Y5sxZSF-0" />
@@ -471,6 +471,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-43" value="这些数据是否&lt;br&gt;与接触剂量和途径相关？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="450" y="420" width="120" height="90" as="geometry" />
         </mxCell>
@@ -536,6 +541,9 @@
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-71" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="720" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-74" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="575" y="440" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
