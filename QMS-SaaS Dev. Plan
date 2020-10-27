@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-27T12:51:52.557Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="dIpfs8C8oZPFEki1Cw8X" version="13.6.10" type="github" pages="2">
+<mxfile modified="2020-10-27T12:58:56.862Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="WHllzIw4isri8DG_0oox" version="13.6.10" type="github" pages="2">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1388" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -405,6 +405,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-26" target="IIsPufFwi5BH_Y5sxZSF-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-26" value="与人体接触是&lt;br&gt;否相同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="570" y="255" width="120" height="90" as="geometry" />
         </mxCell>
@@ -415,6 +418,9 @@
           <mxGeometry x="647" y="250" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-30" target="IIsPufFwi5BH_Y5sxZSF-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-30" target="IIsPufFwi5BH_Y5sxZSF-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-30" value="是否有风险评定所&lt;br&gt;需充分的论证和/或&lt;br&gt;临床相关数据&lt;br&gt;(化学和生物学)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
@@ -438,14 +444,32 @@
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-41" target="IIsPufFwi5BH_Y5sxZSF-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-41" value="是否有材料中&lt;br&gt;所有化学物的充分的毒理学数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="175" y="420" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-42" target="IIsPufFwi5BH_Y5sxZSF-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-42" value="这些数据是否适&lt;br&gt;用于化学混合物？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="315" y="420" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-43" value="这些数据是否&lt;br&gt;与接触剂量和途径相关？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="450" y="420" width="120" height="90" as="geometry" />
@@ -467,6 +491,51 @@
         </mxCell>
         <mxCell id="IIsPufFwi5BH_Y5sxZSF-52" value="6.1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
           <mxGeometry x="522" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-53" target="IIsPufFwi5BH_Y5sxZSF-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-53" value="根据材料的化学性质和接触类别和时间对器械进一步评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="10" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="510" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="367" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-60" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="235" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="65" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-62" target="IIsPufFwi5BH_Y5sxZSF-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-62" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="205" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-63" target="IIsPufFwi5BH_Y5sxZSF-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-63" value="试验和（或）豁免建议试验的论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="382" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="IIsPufFwi5BH_Y5sxZSF-1" source="IIsPufFwi5BH_Y5sxZSF-64" target="IIsPufFwi5BH_Y5sxZSF-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-64" value="进行毒理学风险评定（附录B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-66" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="685" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-70" value="4.2,6.1,7.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="75" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IIsPufFwi5BH_Y5sxZSF-71" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IIsPufFwi5BH_Y5sxZSF-1">
+          <mxGeometry x="720" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
