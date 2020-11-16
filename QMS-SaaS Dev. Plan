@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-16T02:17:46.245Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="uOf5jX34Au1EM1HPNvqC" version="13.8.3" type="github" pages="3">
+<mxfile modified="2020-11-16T02:23:15.548Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="OsGq0ss4nJ6hV3qbLCBU" version="13.8.3" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -556,6 +556,9 @@
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-3" target="LRxmneR1gKPhOmn6Uqlh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-3" target="LRxmneR1gKPhOmn6Uqlh-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-3" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="40" y="100" width="60" height="30" as="geometry" />
         </mxCell>
@@ -629,10 +632,8 @@
             <mxPoint x="780" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="550" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-44" target="LRxmneR1gKPhOmn6Uqlh-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-44" value="是否导致适用范围或&lt;br&gt;作用机理不同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="160" y="420" width="135" height="90" as="geometry" />
@@ -644,31 +645,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-58" value="根据材料的化学性质和接触类别和时间对器械进一步评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="10" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="235" y="520" width="30" height="20" as="geometry" />
+          <mxGeometry x="10" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-64" target="LRxmneR1gKPhOmn6Uqlh-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-64" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="205" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-66" target="LRxmneR1gKPhOmn6Uqlh-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-66" value="试验和（或）豁免建议试验的论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="382" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="382" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-68" target="LRxmneR1gKPhOmn6Uqlh-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-68" value="进行毒理学风险评定（附录B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-71" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="720" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-73" target="LRxmneR1gKPhOmn6Uqlh-39">
           <mxGeometry relative="1" as="geometry">
@@ -680,6 +678,18 @@
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-73" value="&lt;span&gt;对比产品性能指标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="10" y="430" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-75" target="LRxmneR1gKPhOmn6Uqlh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-75" value="与有源医疗器械配合/组合使用的无源类耗材" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="165" y="100" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-78" value="需要配合使用但各自独立的有源医疗器械" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="167.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-80" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="226" y="520" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
