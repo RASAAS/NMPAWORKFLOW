@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-16T02:29:06.895Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="fdsiE1QgtaF_PdUE1dXd" version="13.8.3" type="github" pages="3">
+<mxfile modified="2020-11-16T02:36:32.936Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="IdjzLSPQ9B8y2PiDIOHC" version="13.8.3" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -649,33 +649,6 @@
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-53" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="290" y="436" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-58" target="LRxmneR1gKPhOmn6Uqlh-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-58" value="根据材料的化学性质和接触类别和时间对器械进一步评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="10" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-64" target="LRxmneR1gKPhOmn6Uqlh-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-64" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="205" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-66" target="LRxmneR1gKPhOmn6Uqlh-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-66" value="试验和（或）豁免建议试验的论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="382" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-68" target="LRxmneR1gKPhOmn6Uqlh-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-68" value="进行毒理学风险评定（附录B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="720" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-71" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="720" y="740" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-73" target="LRxmneR1gKPhOmn6Uqlh-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -690,8 +663,8 @@
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-75" target="LRxmneR1gKPhOmn6Uqlh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-75" value="与有源医疗器械配合/组合使用的无源类耗材；&lt;br&gt;&lt;div&gt;&lt;span&gt;单独注册的作为医疗器械管理的附件，不同预期用途；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;有源和无源附件；&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;align=left;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="165" y="60" width="355" height="110" as="geometry" />
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-75" value="与有源医疗器械配合/组合使用的无源类耗材；&lt;br&gt;&lt;div&gt;&lt;span&gt;单独注册的作为医疗器械管理的附件，不同预期用途；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;有源和无源附件（不在同一个无菌包装内的）。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;align=left;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="165" y="90" width="295" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-78">
           <mxGeometry relative="1" as="geometry">
@@ -709,6 +682,26 @@
             <mxPoint x="130" y="529.5" as="sourcePoint" />
             <mxPoint x="560" y="529.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="620" />
+              <mxPoint x="780" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-85" value="模块化体外诊断仪器，单一功能模块产品与全部功能模块产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="340" y="550" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-88" value="原则上划分为同一注册单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="720" y="730" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
