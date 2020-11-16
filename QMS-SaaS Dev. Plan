@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-16T02:36:32.936Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="IdjzLSPQ9B8y2PiDIOHC" version="13.8.3" type="github" pages="3">
+<mxfile modified="2020-11-16T02:41:49.032Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="1GbJsxOHtkTODkQe8Ajb" version="13.8.3" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -634,13 +634,19 @@
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" target="LRxmneR1gKPhOmn6Uqlh-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="530" as="sourcePoint" />
+            <mxPoint x="435" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="435" y="530" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="228.5" y="510" as="sourcePoint" />
-            <mxPoint x="227" y="527" as="targetPoint" />
+            <mxPoint x="227" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-44" value="是否导致适用范围或&lt;br&gt;作用机理不同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
@@ -672,36 +678,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-78" value="需要配合使用但各自独立的有源医疗器械" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="500" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="375" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-80" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="226" y="508" width="30" height="20" as="geometry" />
+          <mxGeometry x="235" y="510" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-83" value="" style="endArrow=none;html=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="529.5" as="sourcePoint" />
-            <mxPoint x="560" y="529.5" as="targetPoint" />
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="405" y="620" />
+              <mxPoint x="280" y="620" />
               <mxPoint x="780" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LRxmneR1gKPhOmn6Uqlh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="530" as="targetPoint" />
+            <mxPoint x="280" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-85" value="模块化体外诊断仪器，单一功能模块产品与全部功能模块产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="340" y="550" width="130" height="60" as="geometry" />
+          <mxGeometry x="215" y="550" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-88" value="原则上划分为同一注册单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
-          <mxGeometry x="720" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-89" target="LRxmneR1gKPhOmn6Uqlh-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-89" value="不同型号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="65" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
