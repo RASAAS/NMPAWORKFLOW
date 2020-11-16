@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-16T02:41:49.032Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="1GbJsxOHtkTODkQe8Ajb" version="13.8.3" type="github" pages="3">
+<mxfile modified="2020-11-16T02:47:18.320Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="1rF1-cPu18C_XycOiSc-" version="13.8.3" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -549,7 +549,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Registration Group" id="IjRXie5rFaxyuHWCAkBp">
-    <mxGraphModel dx="1332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2182" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-0" />
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-1" parent="LRxmneR1gKPhOmn6Uqlh-0" />
@@ -558,6 +558,14 @@
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-3" target="LRxmneR1gKPhOmn6Uqlh-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-3" target="LRxmneR1gKPhOmn6Uqlh-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="115" />
+              <mxPoint y="715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-3" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="40" y="100" width="60" height="30" as="geometry" />
@@ -719,6 +727,12 @@
         </mxCell>
         <mxCell id="LRxmneR1gKPhOmn6Uqlh-89" value="不同型号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
           <mxGeometry x="65" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="LRxmneR1gKPhOmn6Uqlh-1" source="LRxmneR1gKPhOmn6Uqlh-93" target="LRxmneR1gKPhOmn6Uqlh-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LRxmneR1gKPhOmn6Uqlh-93" value="有源医疗器械附件与连接使用的主机；&lt;br&gt;&lt;div&gt;有源和无源附件在同一个无菌包装内；&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;align=left;" vertex="1" parent="LRxmneR1gKPhOmn6Uqlh-1">
+          <mxGeometry x="165" y="690" width="295" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
