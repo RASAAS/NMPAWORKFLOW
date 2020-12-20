@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T08:56:16.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KG8iq8ewiQ8GDv-sE841" version="14.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-20T03:21:54.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LVMEgOB4xIBmDqhF4trJ" version="14.0.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2100" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1118,8 +1118,8 @@
       <root>
         <mxCell id="UDU8XRSQ3vSI6sZbvIEt-0" />
         <mxCell id="UDU8XRSQ3vSI6sZbvIEt-1" parent="UDU8XRSQ3vSI6sZbvIEt-0" />
-        <mxCell id="UDU8XRSQ3vSI6sZbvIEt-2" value="START" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="UDU8XRSQ3vSI6sZbvIEt-1" vertex="1">
-          <mxGeometry x="400" y="380" width="80" height="30" as="geometry" />
+        <mxCell id="UDU8XRSQ3vSI6sZbvIEt-2" value="创建报价" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="UDU8XRSQ3vSI6sZbvIEt-1" vertex="1">
+          <mxGeometry x="400" y="380" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
