@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T11:27:02.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Tf9o5Grqz6zARfhpcD0K" version="14.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-09T11:28:09.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4g64t6aBM4yN12ZNcHfZ" version="14.1.8" type="github" pages="3">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,16 +34,11 @@
           <mxGeometry x="40" y="20" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e5E2QbNswtkjHqlz2Sbp-0" value="Log in to MDLMS" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="fHPWtzzXnt-LDMWmCrJ1-1">
-          <mxGeometry x="420" y="150" width="470" height="370" as="geometry" />
+          <mxGeometry x="385" y="310" width="470" height="370" as="geometry" />
         </mxCell>
         <mxCell id="e5E2QbNswtkjHqlz2Sbp-1" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
           <mxGeometry width="470" height="10" relative="1" as="geometry">
             <mxPoint y="50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e5E2QbNswtkjHqlz2Sbp-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
-          <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
-            <mxPoint x="-24" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e5E2QbNswtkjHqlz2Sbp-3" value="Email / Username" style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
@@ -71,18 +66,18 @@
             <mxPoint y="290" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5E2QbNswtkjHqlz2Sbp-8" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
+        <mxCell id="e5E2QbNswtkjHqlz2Sbp-8" value="Forget password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
           <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
             <mxPoint x="-224.5" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5E2QbNswtkjHqlz2Sbp-9" value="Close" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=14;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
+        <mxCell id="e5E2QbNswtkjHqlz2Sbp-9" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=14;" vertex="1" parent="e5E2QbNswtkjHqlz2Sbp-0">
           <mxGeometry x="1" y="1" width="111" height="40" relative="1" as="geometry">
             <mxPoint x="-355.5" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e5E2QbNswtkjHqlz2Sbp-10" value="MDLMS" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#0000FF;align=center;" vertex="1" parent="fHPWtzzXnt-LDMWmCrJ1-1">
-          <mxGeometry x="590" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
