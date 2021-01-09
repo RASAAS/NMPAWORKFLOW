@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T12:45:20.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9SvQCoTS6V8OjYrB6uvB" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-09T12:47:37.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ak_693-z3PyH_y0ALlTo" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -410,6 +410,12 @@
         </mxCell>
         <mxCell id="hZhEa79-iynAYtPMKYHu-2" value="点击项目名称，进入该项目详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="r-Q4tmBVrbP1ys0v87ex-1">
           <mxGeometry x="80" y="630" width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZhEa79-iynAYtPMKYHu-3" value="右上方Search栏输入项目名称快速搜索" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="r-Q4tmBVrbP1ys0v87ex-1">
+          <mxGeometry x="80" y="650" width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZhEa79-iynAYtPMKYHu-4" value="右上方Project type快速筛选项目" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="r-Q4tmBVrbP1ys0v87ex-1">
+          <mxGeometry x="80" y="670" width="650" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
