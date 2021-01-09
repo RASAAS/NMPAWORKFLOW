@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T12:43:08.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qG0mtrMsrZp8hplN7IRs" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-09T12:44:38.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="F4lDXuR7McBN0cIpY-Dl" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,8 +178,14 @@
             <mxPoint x="-30" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SS4DLsE7-YGNGwxIR9n8-1" value="说明：点击Company name或Work，显示该Home页面，列出最新的四个项目，下方按钮进入列表，显示全部项目" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
+        <mxCell id="SS4DLsE7-YGNGwxIR9n8-1" value="说明：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="40" y="610" width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0JWuFGtJfeJo6dfdpYac-1" value="点击Company name或Work，显示该Home页面，列出最新的四个项目，下方按钮进入列表，显示全部项目" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0JWuFGtJfeJo6dfdpYac-2" value="点击项目图标，进入该项目详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="650" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
