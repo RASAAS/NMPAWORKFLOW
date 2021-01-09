@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T09:32:02.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VuOyuTz6yAtMHyE6PcSb" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-09T09:55:14.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="s1M6s_Q8t_w_ugKc0SU_" version="14.1.8" type="github" pages="2">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="55hlM7NNFsCCo-5yqc0F-0" />
         <mxCell id="55hlM7NNFsCCo-5yqc0F-1" parent="55hlM7NNFsCCo-5yqc0F-0" />
-        <mxCell id="55hlM7NNFsCCo-5yqc0F-2" value="Medical Device Lifecycle Management System" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1;strokeColor=none;" vertex="1" parent="55hlM7NNFsCCo-5yqc0F-1">
-          <mxGeometry x="165" y="180" width="520" height="60" as="geometry" />
+        <mxCell id="55hlM7NNFsCCo-5yqc0F-2" value="Medical Device Lifecycle Management System&lt;br&gt;(MDLMS)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1;strokeColor=none;" vertex="1" parent="55hlM7NNFsCCo-5yqc0F-1">
+          <mxGeometry x="165.5" y="140" width="520" height="10" as="geometry" />
         </mxCell>
         <mxCell id="55hlM7NNFsCCo-5yqc0F-3" value="Design &amp;amp; Development Plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="55hlM7NNFsCCo-5yqc0F-1">
           <mxGeometry x="243" y="250" width="365" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="55hlM7NNFsCCo-5yqc0F-4" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;目的&lt;/h1&gt;&lt;p style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;该项目用于开发符合ISO13485，China GMP，和/或QSR820的在线RA项目管理系统。该系统旨在帮助医疗器械制造商满足不同国家/地区QMS相关要求，同时优化产品生命周期各阶段的流程，满足法规要求的设计开发、验证等文档要求。&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;国内目前暂未发现专门针对医疗器械法规、标准要求等设计的项目管理系统（Project Management System）。市面上现有的一些在线ERP，CRM等管理系统可以进行相应改造。同时也有许多Agile，Scrum，DevOps等敏捷开发的项目管理工具，&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="55hlM7NNFsCCo-5yqc0F-1">
+        <mxCell id="55hlM7NNFsCCo-5yqc0F-4" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;目的&lt;/h1&gt;&lt;p style=&quot;font-size: 21px&quot;&gt;&lt;span&gt;国内目前暂未发现专门针对医疗器械法规、标准要求等设计的项目管理系统（Project Management System）。市面上现有的一些在线ERP，CRM等管理系统可以进行相应改造。同时也有许多Agile，Scrum，DevOps等敏捷开发的项目管理工具（例如Worktile，Teambition等），这些工具可以用于团队协作进行软件开发和快速迭代（SaMD也可以使用类似的工具和流程进行项目管理），但是由于医疗器械的监管法规广泛而复杂，这类敏捷开发的工具并不能满足医疗器械全生命周期的管理及合规要求。因此，有必要开发一个专门为医疗器械合规的管理系统。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;MDLMS是计划符合ISO13485，China GMP，和/或QSR820的在线RA项目管理系统。该系统旨在帮助医疗器械制造商满足不同国家/地区QMS相关要求，同时优化产品生命周期各阶段的流程，满足法规要求的设计开发、验证等文档要求。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="55hlM7NNFsCCo-5yqc0F-1">
           <mxGeometry x="40" y="280" width="770" height="380" as="geometry" />
         </mxCell>
       </root>
