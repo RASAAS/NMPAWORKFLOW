@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T12:09:56.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_qgbxCUdKmcpfyHI1Qn0" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-09T12:12:54.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ed6fJIt1_nP7eOJFJVfH" version="14.1.8" type="github" pages="4">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-30" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SS4DLsE7-YGNGwxIR9n8-1" value="说明：点击Company name或Work，显示该Home页面，列出最新的四个项目，下方按钮进入列表，显示全部项目" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="650" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
