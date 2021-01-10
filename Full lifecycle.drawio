@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T08:37:01.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n-tj_nh1xgSRJglAHkL1" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T13:13:59.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lPaWf7z2yOuM8x9KjB89" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Home" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="All projects" id="B4J9ROsWJFDdFc-aAc3U">
-    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="r-Q4tmBVrbP1ys0v87ex-0" style=";html=1;" />
         <mxCell id="r-Q4tmBVrbP1ys0v87ex-1" style=";html=1;" parent="r-Q4tmBVrbP1ys0v87ex-0" />
@@ -440,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Project details" id="OAIDFMJ7BD5dnIIIQHOO">
-    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="cSPJm6dwUuibQJFLnXyh-0" style=";html=1;" />
         <mxCell id="cSPJm6dwUuibQJFLnXyh-1" style=";html=1;" parent="cSPJm6dwUuibQJFLnXyh-0" />
@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pre-market" id="G7qTNdimZTY7X2j_8l_Z">
-    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="2PD4Yao0_ZQDn-BszLJ0-0" style=";html=1;" />
         <mxCell id="2PD4Yao0_ZQDn-BszLJ0-1" style=";html=1;" parent="2PD4Yao0_ZQDn-BszLJ0-0" />
@@ -741,7 +741,7 @@
         <mxCell id="GXA42jfllNeIqrhY3YmP-78" value="说明：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="40" y="680" width="650" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-79" value="进入项目的Pre-market界面后，默认显示PMS流程，每个流程下都有具体的任务列表，点击每个任务，页面右侧展示任务细节。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-79" value="进入项目的Post-market界面后，默认显示PMS流程，每个流程下都有具体的任务列表，点击每个任务，页面右侧展示任务细节。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="80" y="700" width="1080" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-80" value="PMS的流程为Global Level的要求，参照ISO标准设定，（后续增加NMPA上市后、不良事件监测等要求，在Interface with other processes项下的Regulatory requirements中）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
