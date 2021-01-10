@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T08:12:23.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="L1V-sICID6qQC_bmtv34" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T08:20:33.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EWuYOURP00J7yzAB19i5" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -698,16 +698,16 @@
         <mxCell id="GXA42jfllNeIqrhY3YmP-62" value="Post-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;sketch=0;fillColor=#FFD966;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="40" y="230" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-68" value="&lt;br&gt;&lt;br&gt;Pre-market activities output" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="220" y="270" width="180" height="270" as="geometry" />
+        <mxCell id="GXA42jfllNeIqrhY3YmP-68" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Pre-market activities output" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+          <mxGeometry x="220" y="240" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-69" value="Inputs to PMS" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-68">
-          <mxGeometry width="180" height="50" relative="1" as="geometry" />
+          <mxGeometry width="180" height="80" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-70" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Scope&lt;br&gt;Objective&lt;br&gt;Responsibilities" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="410" y="270" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-71" value="PMS Plan" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-70">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-71" value="General" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-70">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-72" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Data source&lt;br&gt;Data collection methods&lt;br&gt;Data collection protocol&lt;br&gt;Data analysis plan&lt;br&gt;Data analysis methods&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
@@ -716,10 +716,10 @@
         <mxCell id="GXA42jfllNeIqrhY3YmP-73" value="Data collection &amp;amp; analysis" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-72">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-74" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Data analysis report" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-74" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Data analysis report&lt;br&gt;&lt;br&gt;Review of PMS plan" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="790" y="270" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-75" value="Reporting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-74">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-75" value="Reporting and review" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-74">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-78" value="说明：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
@@ -739,6 +739,9 @@
         </mxCell>
         <mxCell id="cq51_Wg3X2aAUppga1mr-1" value="Interface with other processes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="cq51_Wg3X2aAUppga1mr-0">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cq51_Wg3X2aAUppga1mr-2" value="PMS Plan" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+          <mxGeometry x="410" y="240" width="750" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
