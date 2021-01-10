@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T08:20:33.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EWuYOURP00J7yzAB19i5" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T08:28:29.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8Wrh9eC5t-ICmZwZEdZm" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -687,10 +687,10 @@
           <mxGeometry x="50" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-59" value="China GSP (TBD)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=30;fontStyle=0;fontSize=14;spacing=5;opacity=70;fillColor=none;strokeColor=#999999;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="40" y="310" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="350" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-60" value="CAPA (TBD)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=30;fontStyle=0;fontSize=14;spacing=5;opacity=70;fillColor=none;strokeColor=#999999;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="40" y="350" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="390" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-61" value="Pre-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeColor=#005700;strokeWidth=1;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;sketch=0;fillColor=#33A64C;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="40" y="190" width="160" height="40" as="geometry" />
@@ -732,7 +732,7 @@
           <mxGeometry x="80" y="650" width="1010" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-81" value="China GSP为专门针对中国法规要求设置的上市后销售环节的管理模块。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="80" y="670" width="1080" height="20" as="geometry" />
+          <mxGeometry x="80" y="710" width="1080" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cq51_Wg3X2aAUppga1mr-0" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Design &amp;amp; development&lt;br&gt;Risk management&lt;br&gt;Clinical evaluation&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Regulatory requirements&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Improvement&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Marketing &amp;amp; sales&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="980" y="270" width="180" height="270" as="geometry" />
@@ -742,6 +742,12 @@
         </mxCell>
         <mxCell id="cq51_Wg3X2aAUppga1mr-2" value="PMS Plan" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="410" y="240" width="750" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cq51_Wg3X2aAUppga1mr-3" value="Improvement" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=30;fontStyle=0;fontSize=14;spacing=5;opacity=70;fillColor=none;strokeColor=#999999;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+          <mxGeometry x="40" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cq51_Wg3X2aAUppga1mr-4" value="Improvement是根据PMS分析的结果对产品的持续安全有效性进行维护的工作，例如：决定是否需要对产品设计进行更改，对风险管理文档和临床评价文档进行更新，产品销售策略的维护，以及不良事件汇报和CAPA计划等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+          <mxGeometry x="80" y="680" width="1080" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
