@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T08:09:51.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m_3pvrWLnrwz4mKSoKdR" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T08:11:29.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9BeFZXYW9JdA_MVIxVOS" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -731,7 +731,7 @@
         <mxCell id="GXA42jfllNeIqrhY3YmP-80" value="PMS的流程为Global Level的要求，参照ISO标准设定，（后续增加NMPA上市后、不良事件监测等要求，在Interface with other processes项下的Regulatory requirements中）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="80" y="650" width="1010" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-81" value="Technical Files计划在该页面提供自动化指引和表单功能，以实现某些特定文档的生成。（后续根据系统开发情况决定是否保留该选项和功能，或直接整合至各流程中的对应任务中）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-81" value="China GSP为专门针对中国法规要求设置的上市后销售环节的管理模块。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="80" y="670" width="1080" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cq51_Wg3X2aAUppga1mr-0" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Design &amp;amp; development&lt;br&gt;Risk management&lt;br&gt;Clinical evaluation&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Regulatory requirements&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Improvement&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Marketing &amp;amp; sales&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
