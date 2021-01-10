@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T04:31:57.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UhuZ1VlD6aHT9wBFDD6l" version="14.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-10T04:42:57.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hvRWI6boCcmFDSTiOiXO" version="14.1.8" type="github" pages="9">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -695,8 +695,20 @@
         <mxCell id="bf1WNdLGtKFjqpd_WvV5-0" value="Post-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
           <mxGeometry x="40" y="350" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2PD4Yao0_ZQDn-BszLJ0-67" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=left;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
+        <mxCell id="2PD4Yao0_ZQDn-BszLJ0-67" value="MARKET / USER NEEDS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
           <mxGeometry x="200" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXdkaayANmDotY9Nr1xE-1" value="DESIGN INPUT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
+          <mxGeometry x="390" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXdkaayANmDotY9Nr1xE-2" value="DESIGN &amp;amp; DEVELOPMENT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
+          <mxGeometry x="580" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXdkaayANmDotY9Nr1xE-3" value="DESIGN OUTPUT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
+          <mxGeometry x="770" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXdkaayANmDotY9Nr1xE-4" value="VALIDATION &amp;amp; REG. APPROVAL" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="2PD4Yao0_ZQDn-BszLJ0-1">
+          <mxGeometry x="960" y="230" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
