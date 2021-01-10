@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T06:45:14.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="usabHs2S6FKAx-q0Iihp" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T06:47:49.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="k0P-yKrdP_PMrFru2OPp" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -674,7 +674,7 @@
             <mxPoint x="200" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-55" value="&lt;font color=&quot;#0085fc&quot;&gt;Project&lt;/font&gt; / Project 1 / Pre-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#6C757D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=10;opacity=70;fillColor=none;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+        <mxCell id="GXA42jfllNeIqrhY3YmP-55" value="&lt;font color=&quot;#0085fc&quot;&gt;Project&lt;/font&gt; / Project 1 / Post-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#6C757D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=10;opacity=70;fillColor=none;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="210" y="110" width="800" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-56" value="Project 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;opacity=70;fillColor=none;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
@@ -698,50 +698,29 @@
         <mxCell id="GXA42jfllNeIqrhY3YmP-62" value="Post-Market" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=0;strokeColor=none;strokeWidth=1;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;sketch=0;fillColor=#FFD966;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="40" y="230" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-63" value="MARKET / USER NEEDS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="200" y="230" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-64" value="DESIGN INPUT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="390" y="230" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-65" value="DESIGN &amp;amp; DEVELOPMENT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="580" y="230" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-66" value="DESIGN OUTPUT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="770" y="230" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-67" value="VALIDATION &amp;amp; REG. APPROVAL" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;sketch=0;strokeWidth=2;fontSize=12;fontColor=#ffffff;align=center;strokeColor=none;fillColor=#0085FC;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="960" y="230" width="230" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-68" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="200" y="270" width="180" height="270" as="geometry" />
+          <mxGeometry x="220" y="270" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-69" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-68">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-70" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="390" y="270" width="180" height="270" as="geometry" />
+          <mxGeometry x="410" y="270" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-71" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-70">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-72" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="580" y="270" width="180" height="270" as="geometry" />
+          <mxGeometry x="600" y="270" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-73" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-72">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-74" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="770" y="270" width="180" height="270" as="geometry" />
+          <mxGeometry x="790" y="270" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-75" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-74">
           <mxGeometry width="180" height="50" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-76" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
-          <mxGeometry x="960" y="270" width="210" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="GXA42jfllNeIqrhY3YmP-77" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-76">
-          <mxGeometry width="210" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-78" value="说明：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="40" y="610" width="650" height="20" as="geometry" />
@@ -754,6 +733,12 @@
         </mxCell>
         <mxCell id="GXA42jfllNeIqrhY3YmP-81" value="Technical Files计划在该页面提供自动化指引和表单功能，以实现某些特定文档的生成。（后续根据系统开发情况决定是否保留该选项和功能，或直接整合至各流程中的对应任务中）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
           <mxGeometry x="80" y="670" width="1080" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cq51_Wg3X2aAUppga1mr-0" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the tasks." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;sketch=0;" vertex="1" parent="GXA42jfllNeIqrhY3YmP-1">
+          <mxGeometry x="980" y="270" width="180" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cq51_Wg3X2aAUppga1mr-1" value="Sub-tasks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="cq51_Wg3X2aAUppga1mr-0">
+          <mxGeometry width="180" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
