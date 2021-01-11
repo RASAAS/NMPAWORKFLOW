@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T13:13:59.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lPaWf7z2yOuM8x9KjB89" version="14.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-11T13:40:30.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OYS7eXBSppjRMNdpei26" version="14.1.8" type="github" pages="8">
   <diagram id="vI2MDdX4oTMRHShrmpDX" name="Introduction">
     <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Home" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -196,11 +196,14 @@
         <mxCell id="0JWuFGtJfeJo6dfdpYac-2" value="点击项目图标，进入该项目详情" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#999999;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="80" y="650" width="650" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DiJ2Ju9_2wUnGrXAGWsn-1" value="Create New" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="All projects" id="B4J9ROsWJFDdFc-aAc3U">
-    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="r-Q4tmBVrbP1ys0v87ex-0" style=";html=1;" />
         <mxCell id="r-Q4tmBVrbP1ys0v87ex-1" style=";html=1;" parent="r-Q4tmBVrbP1ys0v87ex-0" />
@@ -440,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Project details" id="OAIDFMJ7BD5dnIIIQHOO">
-    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="cSPJm6dwUuibQJFLnXyh-0" style=";html=1;" />
         <mxCell id="cSPJm6dwUuibQJFLnXyh-1" style=";html=1;" parent="cSPJm6dwUuibQJFLnXyh-0" />
@@ -514,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pre-market" id="G7qTNdimZTY7X2j_8l_Z">
-    <mxGraphModel dx="1371" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="2PD4Yao0_ZQDn-BszLJ0-0" style=";html=1;" />
         <mxCell id="2PD4Yao0_ZQDn-BszLJ0-1" style=";html=1;" parent="2PD4Yao0_ZQDn-BszLJ0-0" />
