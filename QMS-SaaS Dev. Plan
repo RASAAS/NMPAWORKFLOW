@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-06T13:11:36.535Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="CLwO6Ep3sICAgHHtThD7" version="14.3.2" type="github" pages="4">
+<mxfile modified="2021-03-06T13:16:40.474Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="WxddiiXWVEWPqw1QIcFl" version="14.3.2" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -953,6 +953,40 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-71" value="符合生物相容性要求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="10" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="570" />
+              <mxPoint x="40" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-72" value="材料标准的认证证书是否可接受？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-310" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-74" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-107" y="550" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75" target="ROyEQcDDN6U9glceTeDj-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-75" value="是否对人群造成风险？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-310" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-77" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-105" y="620" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
