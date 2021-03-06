@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-06T13:22:47.779Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="EmL8AFCkfzrLfNOHYlxV" version="14.3.2" type="github" pages="4">
+<mxfile modified="2021-03-06T13:23:58.040Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="cI2sPRjY6epha9czdqOG" version="14.3.2" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -896,7 +896,7 @@
         <mxCell id="ROyEQcDDN6U9glceTeDj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-62" target="ROyEQcDDN6U9glceTeDj-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-62" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+        <mxCell id="ROyEQcDDN6U9glceTeDj-62" value="生物学试验的选择（ISO 10993-1）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-700" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-64" target="ROyEQcDDN6U9glceTeDj-66">
@@ -937,7 +937,7 @@
             <mxPoint x="-350" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;sketch=0;jumpStyle=sharp;jumpSize=7;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-72" target="ROyEQcDDN6U9glceTeDj-62">
+        <mxCell id="ROyEQcDDN6U9glceTeDj-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;sketch=0;jumpStyle=arc;jumpSize=7;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-72" target="ROyEQcDDN6U9glceTeDj-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-90" y="720" />
@@ -951,7 +951,7 @@
         <mxCell id="ROyEQcDDN6U9glceTeDj-74" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-25" y="550" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75" target="ROyEQcDDN6U9glceTeDj-71">
+        <mxCell id="ROyEQcDDN6U9glceTeDj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75" target="ROyEQcDDN6U9glceTeDj-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75">
@@ -976,6 +976,9 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-83" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-475" y="680" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-85" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-115" y="680" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
