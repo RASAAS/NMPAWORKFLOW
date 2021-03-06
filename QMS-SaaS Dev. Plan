@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-06T12:30:25.089Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="3WCKooZHLd75RUGG37qW" version="14.3.2" type="github" pages="4">
+<mxfile modified="2021-03-06T12:31:59.484Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="fA3IEgT1NO1hUDQ0tzem" version="14.3.2" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -738,10 +738,242 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eQAF83nBG8o3YLA_PV0e" name="BioComp. ISO10993 plus FDA">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3pDPfK0vA_b34ngE-brt-0" />
         <mxCell id="3pDPfK0vA_b34ngE-brt-1" parent="3pDPfK0vA_b34ngE-brt-0" />
+        <mxCell id="ROyEQcDDN6U9glceTeDj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-1" target="ROyEQcDDN6U9glceTeDj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-670" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-4" target="ROyEQcDDN6U9glceTeDj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-4" target="ROyEQcDDN6U9glceTeDj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-4" value="是否直接或&lt;br&gt;间接接触？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-700" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-6" value="生物学评价不适用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="10" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-7" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-535" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-9" target="ROyEQcDDN6U9glceTeDj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-9" value="获得材料的识别信息并应考虑化学表征（ISO 10993-18）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-700" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-645" y="377" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-11" value="4.2,4.3,6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-635" y="390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-14" target="ROyEQcDDN6U9glceTeDj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-14" value="材料是否与市&lt;br&gt;售器械的材&lt;br&gt;料相同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-560" y="395" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-582" y="416" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-16" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-485" y="390" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-19" target="ROyEQcDDN6U9glceTeDj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-19" value="器械是否有相同&lt;br&gt;的化学组成？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-420" y="395" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-440" y="416" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-21" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-343" y="390" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-24" target="ROyEQcDDN6U9glceTeDj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-225" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-24" value="制造和灭菌是&lt;br&gt;否相同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-285" y="395" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-300" y="416" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-26" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-203" y="390" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-29" target="ROyEQcDDN6U9glceTeDj-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="530" />
+              <mxPoint x="-640" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-29" target="ROyEQcDDN6U9glceTeDj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-29" value="与人体接触是&lt;br&gt;否相同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-140" y="395" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-160" y="416" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-31" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-63" y="390" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-34" target="ROyEQcDDN6U9glceTeDj-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-34" target="ROyEQcDDN6U9glceTeDj-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-34" value="是否有风险评定所&lt;br&gt;需充分的论证和/或&lt;br&gt;临床相关数据&lt;br&gt;(化学和生物学)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-730" y="550" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-85" y="500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-36" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-228" y="500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-360" y="500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-38" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-505" y="500" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-39" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-605" y="550" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-42" target="ROyEQcDDN6U9glceTeDj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-475" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-42" value="是否有材料中&lt;br&gt;所有化学物的充分的毒理学数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-535" y="560" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-45" target="ROyEQcDDN6U9glceTeDj-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-335" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-45" value="这些数据是否适&lt;br&gt;用于化学混合物？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-395" y="560" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-640" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-48" value="这些数据是否&lt;br&gt;与接触剂量和途径相关？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-260" y="560" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-49" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-560" y="576" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-50" value="6.1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-468" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-51" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-420" y="576" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-52" value="6.1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-328" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-53" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-280" y="576" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-54" value="6.1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-188" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-56" target="ROyEQcDDN6U9glceTeDj-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-56" value="根据材料的化学性质和接触类别和时间对器械进一步评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-700" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-57" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-200" y="660" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-343" y="660" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-475" y="660" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-60" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-645" y="660" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-62" target="ROyEQcDDN6U9glceTeDj-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-62" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-505" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-64" target="ROyEQcDDN6U9glceTeDj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-64" value="试验和（或）豁免建议试验的论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-328" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-66" target="ROyEQcDDN6U9glceTeDj-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-66" value="进行毒理学风险评定（附录B）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="10" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-25" y="420" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-68" value="4.2,6.1,7.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-635" y="690" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-69" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="10" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-70" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-135" y="580" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
