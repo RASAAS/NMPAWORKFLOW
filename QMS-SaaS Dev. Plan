@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-06T13:19:05.458Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="CKiz0aGsKjkD4XY-U3-l" version="14.3.2" type="github" pages="4">
+<mxfile modified="2021-03-06T13:22:47.779Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="EmL8AFCkfzrLfNOHYlxV" version="14.3.2" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -833,9 +833,6 @@
         <mxCell id="ROyEQcDDN6U9glceTeDj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-34" target="ROyEQcDDN6U9glceTeDj-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-34" target="ROyEQcDDN6U9glceTeDj-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-34" value="&lt;br&gt;器械是否只含有单一的金&lt;br&gt;属，或合金，或&lt;br&gt;陶瓷？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-730" y="550" width="180" height="110" as="geometry" />
         </mxCell>
@@ -856,11 +853,6 @@
             <mxPoint x="-350" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-475" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-42" value="材料中是否可&lt;br&gt;能含有毒性物质？&lt;br&gt;如：铅,镍,铬,锆" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-535" y="560" width="155" height="90" as="geometry" />
         </mxCell>
@@ -874,14 +866,6 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-45" value="这些数据是否适&lt;br&gt;用于化学混合物？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-227" y="740" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-640" y="690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-200" y="690" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-48">
           <mxGeometry relative="1" as="geometry">
@@ -903,29 +887,17 @@
         <mxCell id="ROyEQcDDN6U9glceTeDj-54" value="6.1a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-20" y="730" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-56" target="ROyEQcDDN6U9glceTeDj-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-56" value="根据材料的化学性质和接触类别和时间对器械进一步评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-700" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-57" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-177" y="840" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-320" y="840" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-59" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-475" y="660" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-60" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-645" y="660" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-62" target="ROyEQcDDN6U9glceTeDj-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-62" value="生物学试验的选择（附录A）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-505" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="-700" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-64" target="ROyEQcDDN6U9glceTeDj-66">
           <mxGeometry relative="1" as="geometry" />
@@ -941,9 +913,6 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-25" y="420" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-68" value="4.2,6.1,7.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-635" y="690" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-69" value="生物学评价完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="33" y="980" width="120" height="40" as="geometry" />
@@ -968,6 +937,14 @@
             <mxPoint x="-350" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;sketch=0;jumpStyle=sharp;jumpSize=7;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-72" target="ROyEQcDDN6U9glceTeDj-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="720" />
+              <mxPoint x="-610" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-72" value="材料标准的认证证书是否可接受？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-150" y="550" width="120" height="40" as="geometry" />
         </mxCell>
@@ -982,6 +959,9 @@
             <mxPoint x="-350" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-75" target="ROyEQcDDN6U9glceTeDj-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-75" value="是否对人群造成风险？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-310" y="620" width="120" height="40" as="geometry" />
         </mxCell>
@@ -993,6 +973,9 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-81" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-345" y="620" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ROyEQcDDN6U9glceTeDj-83" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
+          <mxGeometry x="-475" y="680" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
