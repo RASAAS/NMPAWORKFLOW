@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-06T12:59:53.460Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="qgCrjuQWHevhnQqyT6Zu" version="14.3.2" type="github" pages="4">
+<mxfile modified="2021-03-06T13:00:23.799Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="3oj7bjYbQNZdXCwzZqqq" version="14.3.2" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -782,9 +782,6 @@
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-14" value="材料是否与市&lt;br&gt;售器械的材&lt;br&gt;料相同？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
           <mxGeometry x="-560" y="395" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ROyEQcDDN6U9glceTeDj-15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3pDPfK0vA_b34ngE-brt-1">
-          <mxGeometry x="-582" y="416" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROyEQcDDN6U9glceTeDj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3pDPfK0vA_b34ngE-brt-1" source="ROyEQcDDN6U9glceTeDj-19" target="ROyEQcDDN6U9glceTeDj-24">
           <mxGeometry relative="1" as="geometry" />
