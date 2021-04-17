@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-17T09:15:00.546Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="PC1PWsiXsN5fy9Iv6M09" version="14.6.1" type="github" pages="6">
+<mxfile modified="2021-04-17T09:28:07.930Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="CSRvtec-WuIiquUyCBEd" version="14.6.1" type="github" pages="6">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1403" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -1099,6 +1099,22 @@
         <mxCell id="LZB028SqHVwHEnnIt7Yz-13" value="创建业务&lt;br&gt;机会" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=api_analytics;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="LZB028SqHVwHEnnIt7Yz-12">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZB028SqHVwHEnnIt7Yz-14" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="LZB028SqHVwHEnnIt7Yz-1">
+          <mxGeometry x="250" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZB028SqHVwHEnnIt7Yz-15" value="创建新方案" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.google_analytics_360;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="LZB028SqHVwHEnnIt7Yz-14">
+          <mxGeometry width="45" height="44.1" relative="1" as="geometry">
+            <mxPoint x="5" y="7.45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZB028SqHVwHEnnIt7Yz-16" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="LZB028SqHVwHEnnIt7Yz-1">
+          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZB028SqHVwHEnnIt7Yz-17" value="创建报价" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.google_analytics;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="LZB028SqHVwHEnnIt7Yz-16">
+          <mxGeometry width="45" height="45" relative="1" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
