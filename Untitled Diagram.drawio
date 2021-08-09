@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T08:04:39.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="FXNX8BxAWtHCfhNLwdkZ" version="14.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-09T08:05:06.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="U5tzuGocXIR4BfVZO4po" version="14.9.3" type="github" pages="2">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="897" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="qqYyA_lIVRvppWp5ifGM-31" value="RWD investigation" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=6;fontSize=14;align=center;rounded=1;" parent="qqYyA_lIVRvppWp5ifGM-1" vertex="1">
           <mxGeometry x="1379" y="545" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="qqYyA_lIVRvppWp5ifGM-32" value="1. Evaluation checklist:&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;LCMPA perform initial review and pass to HNMPA for evaluation. The evaluation checklist include:&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;evdience document ( approval record out of China)&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Primary investigator&#39;s bio&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Study protocol&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Data collection and quality control plan&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Project Plan&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;  &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;  &lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="qqYyA_lIVRvppWp5ifGM-1" vertex="1">
+        <mxCell id="qqYyA_lIVRvppWp5ifGM-32" value="1. Evaluation checklist:&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;evidence document ( approval record out of China)&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Primary investigator&#39;s bio&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Study protocol&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Data collection and quality control plan&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Project Plan&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;  &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;  &lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="qqYyA_lIVRvppWp5ifGM-1" vertex="1">
           <mxGeometry x="316" y="915" width="530" height="20" as="geometry" />
         </mxCell>
       </root>
