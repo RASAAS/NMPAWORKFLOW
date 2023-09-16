@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-16T14:55:15.835Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6mNyHsQYmJETPrfRVyYJ" version="21.7.2" type="github" pages="7">
+<mxfile modified="2023-09-16T14:57:25.026Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o8P7QG0MO6JL-5NU3Vft" version="21.7.2" type="github" pages="7">
   <diagram name="体系结构图" id="BYg_TSOUeRYP7SEtG7r4">
     <mxGraphModel dx="1067" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -339,6 +339,21 @@
             <mxGeometry x="263.5" y="39" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="XA-0mmXUWEne65PpldG2-17" value="权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-lrktDGY4AvJ0jiubCMb-1">
+          <mxGeometry x="429.5" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA-0mmXUWEne65PpldG2-18" value="权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-lrktDGY4AvJ0jiubCMb-1">
+          <mxGeometry x="323.5" y="189" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA-0mmXUWEne65PpldG2-19" value="存入数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-lrktDGY4AvJ0jiubCMb-1">
+          <mxGeometry x="110.5" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA-0mmXUWEne65PpldG2-20" value="数据传输&lt;br&gt;[HTTPS]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-lrktDGY4AvJ0jiubCMb-1">
+          <mxGeometry x="470" y="69" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA-0mmXUWEne65PpldG2-21" value="数据传输&lt;br&gt;[HTTPS]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-lrktDGY4AvJ0jiubCMb-1">
+          <mxGeometry x="148.5" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
