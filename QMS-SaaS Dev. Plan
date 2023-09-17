@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-17T08:24:20.504Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_VRkWdllf1Imt4yqHIr2" version="21.7.5" type="github" pages="9">
+<mxfile modified="2023-09-17T09:11:11.072Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jhKcE0dEg81z4ZufiK3B" version="21.7.5" type="github" pages="10">
   <diagram name="体系结构图" id="BYg_TSOUeRYP7SEtG7r4">
     <mxGraphModel dx="1017" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -197,6 +197,38 @@
         </mxCell>
         <mxCell id="4jnxNWhm_1ISppwVltYr-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;内部系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SIt-jbr4zhmugsScfXnE-1">
           <mxGeometry x="250" y="-200" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="系统概况" id="d9nwPjZLAVR7WrmBPcin">
+    <mxGraphModel dx="1017" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
+      <root>
+        <mxCell id="RfCy6laDJdretn4rzO3A-0" />
+        <mxCell id="RfCy6laDJdretn4rzO3A-1" parent="RfCy6laDJdretn4rzO3A-0" />
+        <mxCell id="RfCy6laDJdretn4rzO3A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="RfCy6laDJdretn4rzO3A-1" source="RfCy6laDJdretn4rzO3A-4" target="RfCy6laDJdretn4rzO3A-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="RfCy6laDJdretn4rzO3A-1">
+          <mxGeometry x="50" y="-171" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-5" value="用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="RfCy6laDJdretn4rzO3A-1">
+          <mxGeometry x="80" y="-161" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="RfCy6laDJdretn4rzO3A-1" source="RfCy6laDJdretn4rzO3A-7" target="RfCy6laDJdretn4rzO3A-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;网站&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RfCy6laDJdretn4rzO3A-1">
+          <mxGeometry x="10.5" y="-91" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.033;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RfCy6laDJdretn4rzO3A-1" source="RfCy6laDJdretn4rzO3A-10" target="RfCy6laDJdretn4rzO3A-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-10" value="云端服务" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.cloud;" vertex="1" parent="RfCy6laDJdretn4rzO3A-1">
+          <mxGeometry x="230" y="-103" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RfCy6laDJdretn4rzO3A-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="RfCy6laDJdretn4rzO3A-1">
+          <mxGeometry x="95" y="-177.5" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
