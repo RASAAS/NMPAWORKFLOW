@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-17T02:36:36.447Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_pD0wdX1Uv5HEn7xUFir" version="21.7.5" type="github" pages="8">
+<mxfile modified="2023-09-17T02:38:52.295Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AgXy4ZUoatbTzBm3YTRw" version="21.7.5" type="github" pages="8">
   <diagram name="体系结构图" id="BYg_TSOUeRYP7SEtG7r4">
     <mxGraphModel dx="1072" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -1422,6 +1422,14 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dSLPHKluZ0ZhJwv7uY-v-70" value="删除项目" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="dSLPHKluZ0ZhJwv7uY-v-1">
+          <mxGeometry x="395" y="220" width="168" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="dSLPHKluZ0ZhJwv7uY-v-71" value="" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="dSLPHKluZ0ZhJwv7uY-v-70">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dSLPHKluZ0ZhJwv7uY-v-3" value="Elastic Cluster" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFEBEE;" vertex="1" parent="1">
           <mxGeometry x="580" y="420" width="200" height="130" as="geometry" />
         </mxCell>
@@ -1467,6 +1475,9 @@
               <mxPoint x="680" y="390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dSLPHKluZ0ZhJwv7uY-v-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="dSLPHKluZ0ZhJwv7uY-v-35" target="dSLPHKluZ0ZhJwv7uY-v-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSLPHKluZ0ZhJwv7uY-v-35" value="内容修订" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="306" width="168" height="68" as="geometry" />
