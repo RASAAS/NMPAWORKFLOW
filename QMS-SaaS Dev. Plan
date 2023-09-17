@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-17T02:30:52.049Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="f_JuIlN8zWLKcZ8Ps1PH" version="21.7.5" type="github" pages="8">
+<mxfile modified="2023-09-17T02:31:10.177Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dHpbV17CMCvIGK7F6SUN" version="21.7.5" type="github" pages="8">
   <diagram name="体系结构图" id="BYg_TSOUeRYP7SEtG7r4">
     <mxGraphModel dx="1072" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -1376,7 +1376,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dSLPHKluZ0ZhJwv7uY-v-1" value="&lt;b&gt;用户界面关系图&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
+        <mxCell id="dSLPHKluZ0ZhJwv7uY-v-1" value="&lt;b&gt;用户界面关系图&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="-10" width="850" height="670" as="geometry" />
         </mxCell>
         <mxCell id="dSLPHKluZ0ZhJwv7uY-v-2" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="dSLPHKluZ0ZhJwv7uY-v-1">
